@@ -1,0 +1,93 @@
+---
+layout: layouts/base.njk
+---
+<article class="post">
+  <header class="post-header wrap-narrow">
+    <p class="eyebrow"><a href="/blog/?category={{ category | slugcat }}">{{ category }}</a></p>
+    <h1 class="post-title">{{ title }}</h1>
+    {% if subtitle %}<p class="post-subtitle">{{ subtitle }}</p>{% endif %}
+    <p class="post-meta">
+      By {{ author }} · <time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time> · {{ content | readingTime }} min read
+    </p>
+  </header>
+
+  {% if image %}
+  <figure class="post-hero wrap-medium">
+    <img src="{{ image }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
+
+  <div class="post-body wrap-narrow flow dropcap">
+    {{ content | safe }}
+  </div>
+
+  <footer class="post-footer wrap-narrow">
+    <div class="leaf-rule" aria-hidden="true"><span class="rule"></span>{% include "leaf.njk" %}<span class="rule"></span></div>
+
+    <div class="share" aria-label="Share this post">
+      <span class="share-label">Share</span>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | urlencode }}" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url | urlencode }}&text={{ title | urlencode }}" target="_blank" rel="noopener">X</a>
+      <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url | urlencode }}&media={{ site.url }}{{ image | urlencode }}" target="_blank" rel="noopener">Pinterest</a>
+      <a href="mailto:?subject={{ title | urlencode }}&body={{ site.url }}{{ page.url | urlencode }}">Email</a>
+    </div>
+
+    {% set rel = collections.posts | related(page, category, 3) %}
+    {% if rel.length %}
+    <aside class="related">
+      <h2 class="section-title">More in {{ category }}</h2>
+      <div class="related-grid">
+        {% for post in rel %}
+        <a class="related-card" href="{{ post.url }}">
+          {% if post.data.image %}<img src="{{ post.data.image }}" alt="" loading="lazy">{% endif %}
+          <span>{{ post.data.title }}</span>
+        </a>
+        {% endfor %}
+      </div>
+    </aside>
+    {% endif %}
+
+    <section class="comments" id="comments">
+      <h2 class="section-title">Join the conversation</h2>
+      <!--
+        GISCUS (comentarios gratuitos vía GitHub Discussions).
+        1. Activa "Discussions" en el repositorio de GitHub del sitio.
+        2. Instala la app https://github.com/apps/giscus en ese repositorio.
+        3. Ve a https://giscus.app , introduce el repositorio y copia los valores
+           data-repo-id y data-category-id que te genere, sustituyéndolos abajo.
+      -->
+      <script src="https://giscus.app/client.js"
+        data-repo="REPLACE_ME/lifelibertyandlove"
+        data-repo-id="REPLACE_ME"
+        data-category="Comments"
+        data-category-id="REPLACE_ME"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+      </script>
+    </section>
+  </footer>
+</article>
+
+<section class="subscribe-band">
+  <div class="wrap-narrow">
+    <h2>Will you join me?</h2>
+    <p>{{ site.tagline }}. Enter your email and you won't miss a post.</p>
+    <form name="subscribe" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="bot-field" class="subscribe-form">
+      <p class="visually-hidden"><label>Don't fill this out: <input name="bot-field"></label></p>
+      <div class="form-row">
+        <label class="visually-hidden" for="sub-first-p">First name</label>
+        <input id="sub-first-p" name="first_name" type="text" placeholder="First name" autocomplete="given-name">
+        <label class="visually-hidden" for="sub-email-p">Email</label>
+        <input id="sub-email-p" name="email" type="email" required placeholder="Email address" autocomplete="email">
+        <button type="submit" class="btn btn-light">Subscribe</button>
+      </div>
+    </form>
+  </div>
+</section>

@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: Contact
+description: Get in touch with Carey McNamara at Life, Liberty & Love.
+permalink: /contact/
+---
+<header class="page-header wrap">
+  <p class="eyebrow">Contact</p>
+  <h1 class="page-title">I'd love to hear from you</h1>
+  <p class="page-lead">There is a comments section at the end of each article where you can respond with your questions, thoughts, and insights. Should you need to connect with me for any other reason, feel free to reach out here.</p>
+</header>
+
+<section class="section" style="padding-top:24px">
+  <div class="wrap-narrow">
+    <form class="form-card" name="contact" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+      <p class="visually-hidden"><label>Don't fill this out: <input name="bot-field"></label></p>
+      <div class="form-field">
+        <label for="c-name">Name</label>
+        <input id="c-name" name="name" type="text" autocomplete="name">
+      </div>
+      <div class="form-field">
+        <label for="c-email">Email *</label>
+        <input id="c-email" name="email" type="email" required autocomplete="email">
+      </div>
+      <div class="form-field">
+        <label for="c-msg">Message *</label>
+        <textarea id="c-msg" name="message" rows="7" required></textarea>
+      </div>
+      <button type="submit" class="btn btn-green">Send message</button>
+    </form>
+  </div>
+</section>

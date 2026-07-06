@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: Subscribe
+description: Subscribe to Life, Liberty & Love and never miss a post.
+permalink: /subscribe/
+---
+<header class="page-header wrap">
+  <p class="eyebrow">Subscribe</p>
+  <h1 class="page-title">I am so glad you clicked that button!</h1>
+  <p class="page-lead">I would love for us to stay in touch. Let's journey deeper into God's heart together — enter your email and you won't miss a post.</p>
+</header>
+
+<section class="section" style="padding-top:24px">
+  <div class="wrap-narrow">
+    <form class="form-card" name="subscribe" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="bot-field">
+      <p class="visually-hidden"><label>Don't fill this out: <input name="bot-field"></label></p>
+      <div class="form-field">
+        <label for="s-first">First name *</label>
+        <input id="s-first" name="first_name" type="text" required autocomplete="given-name">
+      </div>
+      <div class="form-field">
+        <label for="s-last">Last name</label>
+        <input id="s-last" name="last_name" type="text" autocomplete="family-name">
+      </div>
+      <div class="form-field">
+        <label for="s-email">Email *</label>
+        <input id="s-email" name="email" type="email" required autocomplete="email">
+      </div>
+      <button type="submit" class="btn btn-green">Subscribe</button>
+    </form>
+  </div>
+</section>

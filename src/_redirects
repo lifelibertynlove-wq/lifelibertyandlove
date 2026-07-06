@@ -1,0 +1,11 @@
+# Old Joomla URLs -> new clean URLs (SEO preserved)
+/item/:slug.html   /item/:slug/   301
+/home.html         /              301
+/home              /              301
+/blog.html         /blog/         301
+/about.html        /about/        301
+/contact.html      /contact/      301
+/subscribe.html    /subscribe/    301
+/index.html        /              301
+/itemlist/*        /blog/         301
+/search.html       /blog/         301

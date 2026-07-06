@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: Blog
+description: Every post from Life, Liberty & Love — honest questions of faith, family, relationships, and culture.
+permalink: /blog/
+---
+<header class="blog-head wrap">
+  <h1 class="page-title">The Blog</h1>
+  <p class="page-lead">Honest questions, wrestled through Scripture — on faith, family, relationships, and the culture we live in.</p>
+</header>
+
+<div class="wrap blog-tools">
+  <label class="visually-hidden" for="blog-search">Search posts</label>
+  <input class="blog-search" id="blog-search" type="search" placeholder="Search posts&hellip;">
+  <div class="filter-row" role="group" aria-label="Filter by category">
+    <button class="filter-btn is-active" data-filter="all">All ({{ collections.posts.length }})</button>
+    {% for cat in collections.categories %}
+    <button class="filter-btn" data-filter="{{ cat.slug }}">{{ cat.name }} ({{ cat.count }})</button>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="wrap-medium">
+  <div class="post-list" id="post-list">
+    {% for post in collections.posts %}
+      {% include "post-card.njk" %}
+    {% endfor %}
+  </div>
+  <p class="blog-empty" id="blog-empty">No posts match your search. Try a different word or category.</p>
+</div>
+
+<div style="height:70px"></div>

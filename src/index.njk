@@ -1,0 +1,78 @@
+---
+layout: layouts/base.njk
+permalink: /
+---
+<section class="hero">
+  <img class="hero-img" src="/images/journal.jpg" alt="" fetchpriority="high">
+  <div class="hero-inner">
+    <p class="hero-kicker">Life · Liberty · Love</p>
+    <h1 class="hero-title">Let's journey deeper into God's heart together</h1>
+    <blockquote class="hero-verse">
+      <p>&ldquo;{{ site.verse }}&rdquo;</p>
+      <cite>{{ site.verseRef }}</cite>
+    </blockquote>
+    <div class="hero-actions">
+      <a class="btn btn-solid" href="/blog/">Read the blog</a>
+      <a class="btn btn-ghost" href="/subscribe/">Subscribe</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-title">Latest from the blog</h2>
+      <a class="section-link" href="/blog/">All posts →</a>
+    </div>
+    <div class="card-grid">
+      {% for post in collections.posts | limit(3) %}
+        {% include "post-card.njk" %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <div class="section-head">
+      <h2 class="section-title">Search by topic</h2>
+    </div>
+    <div class="cat-grid">
+      {% for cat in collections.categories %}
+      <a class="cat-card" href="/blog/?category={{ cat.slug }}">
+        <h3>{{ cat.name }}</h3>
+        <span>{{ cat.count }} posts</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap about-teaser">
+    <img src="/images/family-photo3.jpg" alt="Carey McNamara with her family" loading="lazy">
+    <div>
+      <p class="eyebrow">About the author</p>
+      <h2 class="section-title">Hi, I'm Carey.</h2>
+      <p>I am no theologian, and I have not been to seminary; I am just someone who loves spending time in God's presence, listening for His voice and mining deeper treasure from His Word. Over the years, I have learned that God is not afraid of my questions.</p>
+      <p><a href="/about/">Read my story →</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="subscribe-band">
+  <div class="wrap-narrow">
+    <h2>Will you join me?</h2>
+    <p>Enter your email and you won't miss a post.</p>
+    <form name="subscribe" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="bot-field" class="subscribe-form">
+      <p class="visually-hidden"><label>Don't fill this out: <input name="bot-field"></label></p>
+      <div class="form-row">
+        <label class="visually-hidden" for="sub-first">First name</label>
+        <input id="sub-first" name="first_name" type="text" placeholder="First name" autocomplete="given-name">
+        <label class="visually-hidden" for="sub-email">Email</label>
+        <input id="sub-email" name="email" type="email" required placeholder="Email address" autocomplete="email">
+        <button type="submit" class="btn btn-light">Subscribe</button>
+      </div>
+    </form>
+  </div>
+</section>

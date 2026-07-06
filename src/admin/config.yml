@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "src/static/images/uploads"
+public_folder: "/images/uploads"
+
+site_url: https://lifelibertyandlove.com
+logo_url: https://lifelibertyandlove.com/images/life-liberty-love.png
+locale: en
+
+collections:
+  - name: "posts"
+    label: "Blog posts"
+    label_singular: "Blog post"
+    folder: "src/posts"
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - { label: "Title", name: "title", widget: "string", hint: "The headline of the post" }
+      - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: "A short line shown under the title" }
+      - { label: "Short description", name: "description", widget: "text", required: false, hint: "1-2 sentences used in Google results and social previews" }
+      - { label: "Publish date", name: "date", widget: "datetime", format: "YYYY-MM-DD", time_format: false }
+      - { label: "Author", name: "author", widget: "string", default: "Carey McNamara" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Christian Thought", "Relationships", "Responding to Culture", "Struggles & Overcoming"]
+      - { label: "Featured image", name: "image", widget: "image", required: false, hint: "The main photo shown at the top of the post and in previews" }
+      - { label: "Topics (tags)", name: "topics", widget: "list", required: false, allow_add: true }
+      - { label: "Post content", name: "body", widget: "markdown" }

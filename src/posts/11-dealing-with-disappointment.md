@@ -1,0 +1,49 @@
+---
+title: "Dealing with Disappointment"
+subtitle: "When dreams are shattered and grief consumes you"
+description: "It has been a rough week. What are we supposed to do when our dreams are crushed and our heart’s deepest desires left unfulfilled? Life doesn’t always hand us what we want. &nbsp;It can leave us grieving, longing for something untouchable. God gracio"
+date: 2016-02-05
+author: Carey McNamara
+category: "Struggles & Overcoming"
+image: "/media/k2/items/cache/c82cc4e14a1d2c8c8ffff9840d24b558_XL.jpg"
+topics:
+  []
+---
+
+It has been a rough week.
+
+What are we supposed to do when our dreams are crushed and our heart’s deepest desires left unfulfilled? Life doesn’t always hand us what we want.  It can leave us grieving, longing for something untouchable.
+
+God graciously granted us a child in 2008 after years of trying to conceive, including five rounds of fertility treatments.  Connor brings great joy into our lives so I do not mean to minimize the gift he is by sharing our recent struggles . . . but we really wanted another child.  I had vivid dreams about positive pregnancy tests and nursing my newborn in the hospital, but now after five more fertility treatments and a miscarriage, we are heartbroken.  Hundreds of shots and thousands of dollars later, still no baby.
+
+Since this round of fertility treatments did not work, I found myself questioning whether we were supposed to do those additional treatments at all.  But then I remembered . . . Bob and I had peace.  We took our time praying about things and waited until we were unified in our decision before ever stepping out.
+
+Scripture states, “What Satan meant for harm, God meant for good.”  So according to God's Word, I should be able to rest, knowing He would bring something good out of even my greatest disappointments. But my hopes had been shattered and I didn't understand why He allowed this. How could I find the meaning when the pain was still raw? I struggled how to grieve the loss without losing my hope in God.  But I knew I wanted to do more than just survive the pain; I wanted to overcome.
+
+It has been a learning process for me, but there are some pertinent elements I have discovered along the way.  If we want to find peace and purpose in our midnight hour then. . .
+
+**1 - We must keep our eyes on the Lord and not our circumstances.**  It may sound cliché . . . but it is absolutely essential to enduring (and overcoming) the challenges we face in life.  We can’t focus on our dreams, or even on His promises, more than we focus on Jesus Himself.  I am reminded of the song that says, “Turn your eyes upon Jesus, look full in His wonderful face, and the things of this world will grow strangely dim in the light of His glorious grace.”  Dwelling on our loss only deepens the heartache, but when we turn our focus to the Lord, we give Him permission to embrace us, and He gently begins to mend the broken parts of our soul.
+
+**2 - We must remember that God is sovereign and works ALL things together for our good – things are not left to chance.**  He is always in control, and His goodness and faithfulness don’t waver based on the details of our lives.  Many Biblical figures were highly favored by God and still suffered greatly: Job had God’s favor when he lost everything, Daniel had God’s favor in the middle of the lion’s den, Joseph had God’s favor when he was sold into slavery and then thrown into a dungeon, David had God’s favor when he was running for his life and hiding in caves, and Paul had God’s favor when he was shipwrecked, flogged, and imprisoned. Though life is messy and hard at times, there is no better place than the center of God’s will. You can trust God's plans for your life, so it's okay to let Him write the story. As my friend Sally Wallace recently wrote, "You aren't giving up on your dreams; you're giving them over."  There is a big difference. We have to be careful not to get stuck in our disappointments because they may be designed as stepping stones to our next victory. God can redeem anything - and His plans are always bigger and better than anything we could every imagine on our own.
+
+**3 - We have to stop comparing ourselves to others that have more than us (or have what we want).**  Coveting never breeds life. Avoid falling into the trap of self-pity; it will devour your faith and only lead to negativity and depression.  Instead, we are to count our blessings and focus on what we DO have, not what we don’t.  Let us come before God with a grateful heart.  I find that when I do this, my wants become much smaller.  Though every one of our heart's desires matter to God, focusing on our blessings shifts our perspective to a healthier place. There are thousands of people dying every day because they don’t have clean water to drink . . . what do I really have to complain about?
+
+**4 - Worship God in the midst of the pain and in spite of your circumstances.**  Scripture says that He inhabits the praises of His people, and it tells us to enter His courts with thanksgiving and His gates with praise (so this is how we start our conversation with God).  I guarantee you, the level of pain diminishes when you choose to worship Him anyway. I once heard someone say, “pain robs us from perspective, but praise restores it.” The joy of the Lord becomes our strength when we are in His presence. When Peter was in chains, he sang praises to God from his prison cell.  His praise didn’t just release his chains, but also the chains of the others imprisoned around him. When we enter into praise and thanksgiving in spite of our circumstances, not only does God release us from our bondage, but we empower others to find freedom through our praise too.
+
+**5 - Let yourself grieve the loss.**  It is okay to be sad. There is nothing Godly or beneficial about pretending you are okay.  In Ecclesiastes it says, “There is a time for everything,” which includes mourning.  Just make sure you grieve while clinging to God through the process - it's the safest place to bare your soul.  At first I wondered if my disappointment in my circumstances displeased the Lord (or was evidence of lack of trust), but a good friend reminded me that even Jesus wept when Lazarus died.  I don't believe Jesus knew what God was going to do three days later.  I think He followed the Father’s lead one moment at a time . . . so naturally he grieved when he received news of his friend’s death.  Yet, look at the beautiful miracle God did and the rejoicing that soon followed.  So, we can grieve without losing hope.  Like in the case of Lazarus, this time of grief may precede your next miracle.
+
+**6 - Take it one day at a time.**  God is not in a hurry for you to heal - He is extremely patient with us through the journey.  I don’t have any peace about getting rid of all my baby stuff so I’m going to wait.  Who knows what God has in store for us, but in the meantime, I will trust Him for today and leave the future in His hands. We are to “trust in the Lord with all our heart and lean not on our own understanding,” so that means my heart's surrender is to take precedence over my mind's understanding. Nowhere in the Bible does it encourage us to “get our heads around” something – the answer "why" will not likely be given in our lifetime.  It will only torment us if we stay in a place of demanding answers.
+
+**7 - We cannot allow ourselves to play the “what if” or “it’s not fair” game.**  We will never find peace or direction while grumbling and shaking our fist at God.  Instead, find what the Lord wants you to believe/wait for and do just that.  If He has spoken something to your heart, don’t give up just because it hasn’t come to pass in the way or timing you would prefer.  Take hold of whatever lessons are hiding in the margins of your circumstances and let your roots grow deep while God prunes you.  This is a necessity if we are to bear any fruit in our lives.  It is often in times of brokenness that we are closest to the heart and presence of the Lord . . . so don’t pass through this season unchanged.  Since I know my heavenly Father is a giver and not a taker, I believed there was a gift somewhere in the pain, just waiting for me to discover.
+
+**8 - Choose wisely which voices you listen to and believe.**  Our thoughts and feelings will war with our spirit, and the enemy will work hard to divert you on a path of despair and bitterness. The battle begins in our mind, so we must call on the Lord to renew our thoughts if we want to be victorious. “Take captive every thought and make it obedient to Jesus Christ.”  Submit to the voice of truth – the voice that brings peace.  Any other voice is not from God.
+
+In his book, "[The Seven Mountain Mantle](http://www.amazon.com/Seven-Mountain-Mantle-Receiving-Anointing/dp/1599799634/ref=sr_1_1?ie=UTF8&qid=1455374419&sr=8-1&keywords=seven+mountain+mantle)," Johnny Enlow writes, "**Your process is designed to develop the muscles you will need to sustain the weight of your destiny.**" As we submit to the process God has for us and trust him in the midst of our trials and suffering, our faith will mature and He will be able to then upgrade us to the next thing. As Heidi Baker wrote, “**We can use our suffering to become more like Jesus, or we can let bitterness fester inside our hearts.**” I know which one of those I am choosing.
+
+> We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed.  We always carry around in our body the death of Jesus, so that the life of Jesus may also be revealed in our body.  2 Corinthians 4:8-10
+
+Recommended reading:
+
+"[Where is God?](http://www.desiringgod.org/messages/where-is-god)" by John Piper
+
+"[Every Bitter Thing is Sweet: Tasting the Goodness of God in All Things](http://www.amazon.com/Every-Bitter-Thing-Is-Sweet-ebook/dp/B00J1UEAVU/ref=dp_kinw_strp_1)" by Sara Hagerty
