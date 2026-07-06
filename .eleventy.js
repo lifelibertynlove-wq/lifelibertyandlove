@@ -1,0 +1,79 @@
+const fs = require("fs");
+
+module.exports = function (eleventyConfig) {
+  // Static assets
+  eleventyConfig.addPassthroughCopy({ "src/static": "/" });
+  eleventyConfig.addPassthroughCopy({ "src/css": "/css" });
+  eleventyConfig.addPassthroughCopy({ "src/js": "/js" });
+  eleventyConfig.addPassthroughCopy({ "src/admin": "/admin" });
+  eleventyConfig.addPassthroughCopy({ "src/_redirects": "/_redirects" });
+
+  // Posts collection, newest first
+  eleventyConfig.addCollection("posts", (api) =>
+    api.getFilteredByGlob("src/posts/*.md").sort((a, b) => b.date - a.date)
+  );
+
+  // Categories with counts
+  eleventyConfig.addCollection("categories", (api) => {
+    const map = {};
+    api.getFilteredByGlob("src/posts/*.md").forEach((p) => {
+      const c = p.data.category;
+      if (c) map[c] = (map[c] || 0) + 1;
+    });
+    return Object.entries(map)
+      .map(([name, count]) => ({ name, count, slug: slugify(name) }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+  });
+
+  function slugify(s) {
+    return String(s)
+      .toLowerCase()
+      .replace(/&/g, "and")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
+  eleventyConfig.addFilter("slugcat", slugify);
+
+  eleventyConfig.addFilter("readableDate", (d) => {
+    return new Date(d).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+      timeZone: "UTC",
+    });
+  });
+
+  eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
+
+  eleventyConfig.addFilter("readingTime", (content) => {
+    const words = String(content).replace(/<[^>]+>/g, " ").split(/\s+/).length;
+    return Math.max(1, Math.round(words / 220));
+  });
+
+  eleventyConfig.addFilter("excerpt", (content, n) => {
+    const text = String(content).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+    return text.slice(0, n || 180).replace(/\s\S*$/, "") + "\u2026";
+  });
+
+  eleventyConfig.addFilter("jsonify", (v) => JSON.stringify(v));
+
+  eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
+
+  eleventyConfig.addFilter("related", (posts, page, category, n) => {
+    return posts
+      .filter((p) => p.url !== page.url && p.data.category === category)
+      .slice(0, n || 3);
+  });
+
+  eleventyConfig.setLibrary(
+    "md",
+    require("markdown-it")({ html: true, typographer: true })
+  );
+
+  return {
+    dir: { input: "src", includes: "_includes", output: "_site" },
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
+  };
+};
