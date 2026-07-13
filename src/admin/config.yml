@@ -30,3 +30,25 @@ collections:
       - { label: "Featured image", name: "image", widget: "image", required: false, hint: "The main photo shown at the top of the post and in previews" }
       - { label: "Topics (tags)", name: "topics", widget: "list", required: false, allow_add: true }
       - { label: "Post content", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Homepage"
+    files:
+      - file: "src/_data/featured.json"
+        name: "featured"
+        label: "Featured carousel"
+        description: "Choose the 4-5 posts shown in the homepage carousel, in order."
+        fields:
+          - label: "Featured posts"
+            name: "slugs"
+            widget: "list"
+            min: 3
+            max: 6
+            field:
+              label: "Post"
+              name: "slug"
+              widget: "relation"
+              collection: "posts"
+              search_fields: ["title"]
+              value_field: "{{slug}}"
+              display_fields: ["title"]

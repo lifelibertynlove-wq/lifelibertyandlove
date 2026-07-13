@@ -2,23 +2,51 @@
 layout: layouts/base.njk
 permalink: /
 ---
-<section class="hero">
-  <img class="hero-img" src="/images/journal.jpg" alt="" fetchpriority="high">
-  <div class="hero-inner">
-    <p class="hero-kicker">Life · Liberty · Love</p>
-    <h1 class="hero-title">Let's journey deeper into God's heart together</h1>
-    <blockquote class="hero-verse">
-      <p>&ldquo;{{ site.verse }}&rdquo;</p>
-      <cite>{{ site.verseRef }}</cite>
-    </blockquote>
-    <div class="hero-actions">
-      <a class="btn btn-solid" href="/blog/">Read the blog</a>
-      <a class="btn btn-ghost" href="/subscribe/">Subscribe</a>
-    </div>
+{# ---- Resolver artículos destacados (con fallback a los más recientes) ---- #}
+{% set featuredPosts = [] %}
+{% for slug in featured.slugs %}
+  {% for p in collections.posts %}
+    {% if p.fileSlug == slug %}{% set featuredPosts = (featuredPosts.push(p), featuredPosts) %}{% endif %}
+  {% endfor %}
+{% endfor %}
+{% if featuredPosts.length < 3 %}{% set featuredPosts = collections.posts | limit(5) %}{% endif %}
+
+<section class="carousel" id="carousel" aria-roledescription="carousel" aria-label="Featured posts">
+  <div class="carousel-track">
+    {% for post in featuredPosts %}
+    <article class="slide{% if loop.first %} is-active{% endif %}" role="group" aria-roledescription="slide" aria-label="{{ loop.index }} of {{ featuredPosts.length }}"{% if not loop.first %} aria-hidden="true"{% endif %}>
+      {% if post.data.image %}<img class="slide-img" src="{{ post.data.image }}" alt="" {% if loop.first %}fetchpriority="high"{% else %}loading="lazy"{% endif %}>{% endif %}
+      <div class="slide-scrim" aria-hidden="true"></div>
+      <div class="slide-content">
+        <p class="eyebrow slide-eyebrow">{{ post.data.category }} · {{ post.date | readableDate }}</p>
+        <h2 class="slide-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        {% if post.data.subtitle %}<p class="slide-sub">{{ post.data.subtitle }}</p>{% endif %}
+        <a class="btn btn-solid" href="{{ post.url }}">Read the post</a>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <button class="carousel-arrow carousel-prev" aria-label="Previous post">&#8249;</button>
+  <button class="carousel-arrow carousel-next" aria-label="Next post">&#8250;</button>
+  <div class="carousel-dots" role="tablist" aria-label="Choose slide">
+    {% for post in featuredPosts %}
+    <button class="carousel-dot{% if loop.first %} is-active{% endif %}" role="tab" aria-label="Go to slide {{ loop.index }}"{% if loop.first %} aria-selected="true"{% endif %}></button>
+    {% endfor %}
   </div>
 </section>
 
-<section class="section">
+<section class="mission">
+  <div class="wrap-narrow">
+    <div class="leaf-rule" aria-hidden="true"><span class="rule"></span>{% include "leaf.njk" %}<span class="rule"></span></div>
+    <h1 class="mission-title">{{ site.tagline }}</h1>
+    <blockquote class="mission-verse">
+      <p>&ldquo;{{ site.verse }}&rdquo;</p>
+      <cite>{{ site.verseRef }}</cite>
+    </blockquote>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
   <div class="wrap">
     <div class="section-head">
       <h2 class="section-title">Latest from the blog</h2>

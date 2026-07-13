@@ -67,6 +67,16 @@
   </div>
 </footer>
 
+<script>
+  // Netlify Identity: los emails de invitación/recuperación apuntan a la raíz
+  // del sitio con un token en el hash; lo reenviamos a /admin/, donde vive el widget.
+  (function () {
+    var h = window.location.hash;
+    if (h && /^(#invite_token|#recovery_token|#confirmation_token|#email_change_token)/.test(h) && window.location.pathname.indexOf('/admin') !== 0) {
+      window.location.replace('/admin/' + h);
+    }
+  })();
+</script>
 <script src="/js/site.js" defer></script>
 </body>
 </html>

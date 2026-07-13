@@ -7,15 +7,15 @@
    ============================================================ */
 
 :root {
-  --paper: #FBF9F3;
-  --paper-deep: #F3EEE2;
-  --ink: #242C27;
-  --ink-soft: #5D675F;
-  --leaf: #3E6B4F;
-  --leaf-soft: #E7EFE7;
-  --forest: #26402F;
-  --gold: #B99552;
-  --line: #E3DCCB;
+  --paper: #FCFAF2;
+  --paper-deep: #F5EFDC;
+  --ink: #22302A;
+  --ink-soft: #57655C;
+  --leaf: #3B8457;
+  --leaf-soft: #E1F2E4;
+  --forest: #1E5237;
+  --gold: #D9A83E;
+  --line: #E7DFC6;
   --white: #FFFFFF;
 
   --font-display: "Cormorant Garamond", Georgia, serif;
@@ -190,6 +190,67 @@ a:hover { color: var(--forest); }
 .btn-green:hover { background: var(--forest); }
 .btn-light { background: #fff; color: var(--forest); border: none; }
 .btn-light:hover { background: var(--paper-deep); }
+
+
+/* ---------- Carousel (portada) ---------- */
+.carousel { position: relative; background: var(--forest); overflow: hidden; }
+.carousel-track { position: relative; min-height: clamp(430px, 58vh, 580px); }
+.slide {
+  position: absolute; inset: 0; opacity: 0; visibility: hidden;
+  transition: opacity 0.7s ease; display: flex; align-items: center;
+}
+.slide.is-active { opacity: 1; visibility: visible; position: relative; }
+.slide-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.slide-scrim {
+  position: absolute; inset: 0;
+  background: linear-gradient(75deg, rgba(20, 48, 32, 0.88) 22%, rgba(20, 48, 32, 0.55) 55%, rgba(20, 48, 32, 0.18) 100%);
+}
+.slide-content {
+  position: relative; max-width: var(--wrap); width: 100%;
+  margin-inline: auto; padding: clamp(56px, 9vw, 96px) 84px;
+  color: #fff;
+}
+.slide-content > * { max-width: 560px; }
+.slide-eyebrow { color: #F2CE77; }
+.slide-title { font-family: var(--font-display); font-weight: 600; font-size: clamp(1.9rem, 4.6vw, 3.2rem); line-height: 1.1; margin: 0 0 14px; }
+.slide-title a { color: #fff; text-decoration: none; }
+.slide-title a:hover { text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 6px; }
+.slide-sub { font-family: var(--font-display); font-style: italic; font-size: clamp(1.05rem, 2vw, 1.3rem); color: #E9E3CE; margin: 0 0 26px; line-height: 1.45; }
+.carousel-arrow {
+  position: absolute; top: 50%; transform: translateY(-50%); z-index: 5;
+  width: 46px; height: 46px; border-radius: 50%; border: 1.5px solid rgba(255,255,255,0.55);
+  background: rgba(20, 48, 32, 0.35); color: #fff; font-size: 1.7rem; line-height: 1;
+  cursor: pointer; display: grid; place-items: center; transition: background 0.15s;
+}
+.carousel-arrow:hover { background: var(--gold); border-color: var(--gold); color: var(--forest); }
+.carousel-prev { left: 18px; }
+.carousel-next { right: 18px; }
+.carousel-dots {
+  position: absolute; left: 0; right: 0; bottom: 18px; z-index: 5;
+  display: flex; gap: 10px; justify-content: center;
+}
+.carousel-dot {
+  width: 10px; height: 10px; border-radius: 50%; border: 1.5px solid #fff;
+  background: transparent; cursor: pointer; padding: 0;
+}
+.carousel-dot.is-active { background: var(--gold); border-color: var(--gold); }
+@media (max-width: 700px) {
+  .slide { align-items: flex-end; }
+  .slide-content { padding: 30px 22px 64px; }
+  .slide-scrim { background: linear-gradient(to top, rgba(20,48,32,0.92) 30%, rgba(20,48,32,0.35) 75%, rgba(20,48,32,0.15) 100%); }
+  .carousel-arrow { display: none; }
+}
+
+/* ---------- Mission (lema + versículo) ---------- */
+.mission { text-align: center; padding-block: clamp(44px, 7vw, 80px) clamp(38px, 6vw, 64px); }
+.mission .leaf-rule { margin-top: 0; margin-bottom: 26px; }
+.mission-title {
+  font-family: var(--font-display); font-weight: 600;
+  font-size: clamp(1.9rem, 4.4vw, 2.9rem); line-height: 1.15; margin: 0 0 18px;
+}
+.mission-verse { margin: 0 auto; max-width: 540px; }
+.mission-verse p { font-family: var(--font-display); font-style: italic; font-size: clamp(1.08rem, 2.2vw, 1.3rem); line-height: 1.55; color: var(--leaf); margin: 0 0 10px; }
+.mission-verse cite { font-family: var(--font-ui); font-style: normal; font-size: 0.74rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft); }
 
 /* ---------- Sections ---------- */
 .section { padding-block: clamp(50px, 8vw, 90px); }
