@@ -109,10 +109,11 @@ a:hover { color: var(--green-dark); }
 }
 .header-inner {
   display: flex; align-items: center; justify-content: space-between;
-  padding-block: 18px;
+  padding-block: 22px;
 }
-.brand img { width: 232px; height: auto; }
-@media (max-width: 760px) { .brand img { width: 176px; } }
+.brand img { width: 340px; height: auto; }
+@media (max-width: 900px) { .brand img { width: 280px; } }
+@media (max-width: 600px) { .brand img { width: 220px; } }
 .nav-list {
   display: flex; align-items: center; gap: 28px;
   list-style: none; margin: 0; padding: 0;
