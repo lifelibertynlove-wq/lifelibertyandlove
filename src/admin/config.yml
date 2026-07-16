@@ -1,12 +1,13 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: lifelibertynlove-wq/lifelibertyandlove
   branch: main
 
 media_folder: "src/static/images/uploads"
 public_folder: "/images/uploads"
 
 site_url: https://lifelibertyandlove.com
-logo_url: https://lifelibertyandlove.com/images/life-liberty-love.png
+logo_url: https://lifelibertyandlove.com/images/logo-header.png
 locale: en
 
 collections:
