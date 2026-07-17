@@ -52,4 +52,5 @@ collections:
               collection: "posts"
               search_fields: ["title"]
               value_field: "{{slug}}"
-              display_fields: ["title"]
+              display_fields: ["title", "category"]
+              options_length: 60
