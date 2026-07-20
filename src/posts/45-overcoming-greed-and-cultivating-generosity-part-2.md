@@ -8,9 +8,10 @@ category: "Christian Thought"
 image: "/media/k2/items/cache/37a06e4a72d6cb27621f1ed829bbee81_XL.jpg"
 topics:
   []
+prev_part: "43-overcoming-greed-and-cultivating-generosity-part-1"
 ---
 
-In part one of this blog, I shared some of the common mindsets that blind us to greed and hinder giving, while highlighting Biblical truths that help point us in the right direction ([READ HERE](43-overcoming-greed-and-cultivating-generosity-part-1.html)).  However, *generosity has a starting point -* you will not just wake up one day suddenly more generous. So, in part two of this article I want to share a bit about my personal journey and offer some practical tips for how to walk this out. It has nothing to do with how much money we have, and everything to do with the posture of our hearts. When we begin to see as God sees and love as He loves, the things of this world begin to lose their appeal (Mark 8:35-36) and we start *wanting* to use our resources in different ways.
+In part one of this blog, I shared some of the common mindsets that blind us to greed and hinder giving, while highlighting Biblical truths that help point us in the right direction ([READ HERE](/item/43-overcoming-greed-and-cultivating-generosity-part-1/)).  However, *generosity has a starting point -* you will not just wake up one day suddenly more generous. So, in part two of this article I want to share a bit about my personal journey and offer some practical tips for how to walk this out. It has nothing to do with how much money we have, and everything to do with the posture of our hearts. When we begin to see as God sees and love as He loves, the things of this world begin to lose their appeal (Mark 8:35-36) and we start *wanting* to use our resources in different ways.
 
 For years I felt God tugging at my heart to give more than just my tithe – I felt Him inviting me to partner with Him to use my life and resources in more eternal ways. But since my bills did not get any smaller, and my husband needed to be on the same page, I was not sure how to do this. Plus, I had a pretty frugal mentality, so I really needed to adapt a new mindset if I was going to start using my money differently.
 

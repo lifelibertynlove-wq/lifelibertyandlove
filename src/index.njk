@@ -49,11 +49,11 @@ permalink: /
 <section class="section" style="padding-top:0">
   <div class="wrap">
     <div class="section-head">
-      <h2 class="section-title">Latest from the blog</h2>
-      <a class="section-link" href="/blog/">All posts →</a>
+      <h2 class="section-title">From the blog</h2>
+      <a class="section-link" href="/blog/">Search &amp; filter all posts &rarr;</a>
     </div>
     <div class="card-grid">
-      {% for post in collections.posts | limit(3) %}
+      {% for post in collections.posts %}
         {% include "post-card.njk" %}
       {% endfor %}
     </div>
@@ -78,12 +78,13 @@ permalink: /
 
 <section class="section">
   <div class="wrap about-teaser">
-    <img src="/images/family-photo3.jpg" alt="Carey McNamara with her family" loading="lazy">
+    <img src="/images/carey-portrait.jpg" alt="Carey McNamara" loading="lazy">
     <div>
       <p class="eyebrow">About the author</p>
       <h2 class="section-title">Hi, I'm Carey.</h2>
-      <p>I am no theologian, and I have not been to seminary; I am just someone who loves spending time in God's presence, listening for His voice and mining deeper treasure from His Word. Over the years, I have learned that God is not afraid of my questions.</p>
-      <p><a href="/about/">Read my story →</a></p>
+      <p>I am not a theologian or seminary graduate&mdash;just a follower of Jesus who has learned over the years that God is not afraid of my questions. I'd love for you to join me as we seek Him together&mdash;wrestling honestly with Scripture, listening for His voice, and discovering that His life, liberty, and love are woven into every part of our story, even in the hardest seasons.</p>
+      <p>Whether you're full of faith, wrestling with doubts, or simply curious about knowing God more, I hope you'll feel at home here. <strong>You are so very welcome.</strong></p>
+      <p><a href="/about/">Read my story &rarr;</a></p>
     </div>
   </div>
 </section>

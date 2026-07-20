@@ -8,6 +8,7 @@ category: "Christian Thought"
 image: "/media/k2/items/cache/36fdb1a35cd2f54f95cf2119fb5bc7ed_XL.jpg"
 topics:
   []
+next_part: "39-do-christians-really-need-to-go-to-church-part-2"
 ---
 
 Have you ever gone to church on Sunday morning and felt like you were wasting your time? Maybe the worship music felt flat (and those gathered just appeared to be going through the motions) . . . or maybe your mind wandered through the boring and irrelevant sermon (which only seemed like the pastor was trying to “fill time”). All you could think was “I should have stayed in bed,” or better yet, “We should have gone out on the boat today.” *Well I have . . . on many occasions,* but the feeling was never unique to one particular church. Though I have always valued going to church, my Sunday morning experiences have varied widely throughout my life. Sometimes I leave the service feeling like I met with the Lord, encouraged and better equipped in my spiritual walk, and other times I leave feeling completely unaffected. Why is that?
@@ -50,7 +51,7 @@ But if enough of us join together in the seeking, the Church will soon start to 
 
 *\*In part two of this article I map out ten things to consider that can help us discern whether we should go to church (not to spoil it, but the answer is not always to go).*
 
-[CLICK HERE](39-do-christians-really-need-to-go-to-church-part-2.html) to read PART 2
+[CLICK HERE](/item/39-do-christians-really-need-to-go-to-church-part-2/) to read PART 2
 
 Further Reading:
 

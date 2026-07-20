@@ -18,7 +18,7 @@ Though I believe in the sanctity of marriage between one man and one woman, I am
 
 If the Church truly wants to take a stand on righteousness, then they should do so inclusively (which mean treating other sins with equal importance: heterosexual immorality, jealousy, pride, gluttony, the love of money, etc). However, as a faith community, we need to learn that “speaking the truth in love” does not mean pointing fingers at someone else’s sin. Jesus did not come to judge the world, but to save it . . . so how can we do anything different (John 3:17)?  The gospel is *good news,*after all - which means we carry a message of hope, not one of condemnation.
 
-We can learn a great deal from the way [Jesus faced the controversies of His day](2-how-should-christians-face-the-controversies-of-our-day.html). Jesus had this amazing ability to separate the value of a person from their sin. Instead of judging them, He befriended them . . .  and then simply let love do its’ work. It was the Lord’s kindness that drew us to repentance, and it will be His kindness through us that draws others to that same place (Romans 2:4).
+We can learn a great deal from the way [Jesus faced the controversies of His day](/item/2-how-should-christians-face-the-controversies-of-our-day/). Jesus had this amazing ability to separate the value of a person from their sin. Instead of judging them, He befriended them . . .  and then simply let love do its’ work. It was the Lord’s kindness that drew us to repentance, and it will be His kindness through us that draws others to that same place (Romans 2:4).
 
 According to Kris Vallotton in his book, [The Supernatural Ways of Royalty](https://www.amazon.com/Supernatural-Ways-Royalty-Discovering-Privileges/dp/0768423236/ref=sr_1_1?ie=UTF8&qid=1510860489&sr=8-1&keywords=supernatural+ways+of+royalty),
 
@@ -58,7 +58,7 @@ This applies to ALL of us.
 
 Related blogs worth a read:
 
-In my article, "[How Should Christians Face The Controversies Of Our Day,"](2-how-should-christians-face-the-controversies-of-our-day.html)I discuss how Jesus responded to sins and cultural challenges of His day.  He sets the prime example for us to follow.
+In my article, "[How Should Christians Face The Controversies Of Our Day,"](/item/2-how-should-christians-face-the-controversies-of-our-day/)I discuss how Jesus responded to sins and cultural challenges of His day.  He sets the prime example for us to follow.
 
 "[9 Reasons Why Sinners Went to Jesus But Don't Come To Us](http://www.happysonship.com/9-reasons-why-sinners/)"
 

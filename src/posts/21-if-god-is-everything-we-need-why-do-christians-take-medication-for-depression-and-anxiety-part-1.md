@@ -8,6 +8,7 @@ category: "Struggles & Overcoming"
 image: "/media/k2/items/cache/9b2c4b44fb86522964124ed80d03c5e8_XL.jpg"
 topics:
   []
+next_part: "23-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-2"
 ---
 
 In my 16 years as a physician assistant, I have treated hundreds of patients for different forms of mental illness, from simple cases of mild anxiety and depression, to unstable bipolar or schizophrenic patients (including suicidal patients that required involuntarily admission for treatment). Some patients came to me begging for help, while others wore their symptoms with shame, hesitant to admit they were struggling. I have found that some people, Christians in particular, resist treatment for mental illness because they believe taking medication is a sign of weakness (or lack of faith in God). But if this were the case, prayer and spiritual practices would always bring relief. There are many contributing factors to mental illness beyond just the spiritual aspect – we must also consider the biological, psychological, lifestyle, and situational components.
@@ -51,7 +52,7 @@ In summary, to successfully tackle the many layers of mental illness, it comes d
 
 In the meantime, my hope is that the stigma associated with mental illness does not prevent people from seeking the help they need, and that they realize they are not a failure at their faith simply because they are struggling. God's strength is made perfect in our weakness, so being at the end of ourselves is not necessarily a bad thing.  We are all a work in progress, each on our own lifelong journey of healing and transformation.  So . . . let’s take advantage of the resources God has given us and press into the fullness of our true identity, embracing every bit of life, liberty, and love He imparts to us along the way.
 
-Read Part Two of this article [HERE](23-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-2.html).
+Read Part Two of this article [HERE](/item/23-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-2/).
 
 ***FURTHER READING & RESOURCES on the biological aspects of depression:***
 

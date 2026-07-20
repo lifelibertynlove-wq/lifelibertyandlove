@@ -8,9 +8,10 @@ category: "Struggles & Overcoming"
 image: "/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_XL.jpg"
 topics:
   []
+prev_part: "21-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-1"
 ---
 
-God created us with a body, soul, and spirit, and each of these parts play a role in our mental health. In my last article, I discussed the biological and psychological components of mental health, addressing when medication or counseling may be beneficial to help an individual recover ([Read HERE](21-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-1.html)). In this article, I will attempt to address some of the spiritual components of mental health, and explain when medication may not be beneficial for symptoms of depression. I will try and differentiate between suffering which carries a divine purpose, from that which requires medical intervention. This is a complicated topic, one that a short blog can never comprehensively address, but my goal is to at least touch on some of these spiritual issues, possibly uncovering a bit of truth for those in need of hope, and offering new perspective for the journey forward.
+God created us with a body, soul, and spirit, and each of these parts play a role in our mental health. In my last article, I discussed the biological and psychological components of mental health, addressing when medication or counseling may be beneficial to help an individual recover ([Read HERE](/item/21-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-1/)). In this article, I will attempt to address some of the spiritual components of mental health, and explain when medication may not be beneficial for symptoms of depression. I will try and differentiate between suffering which carries a divine purpose, from that which requires medical intervention. This is a complicated topic, one that a short blog can never comprehensively address, but my goal is to at least touch on some of these spiritual issues, possibly uncovering a bit of truth for those in need of hope, and offering new perspective for the journey forward.
 
 Since there are many types of spiritual problems, there are different approaches for healing spiritual wounds. Sometimes an individual needs deliverance from a demonic stronghold, and other times they need inner healing. Then there are those whose restoration comes as they surrender to God in a “dark night of the soul” experience, and yet others whose healing comes through the simple act of “choosing life” in spite of their pain.
 
@@ -88,7 +89,7 @@ There is no precise equation for fixing our spiritual life – God’s transform
 
 **In the end,** **our full healing won’t be complete until we reach our home in heaven; until then, we are all a work in progress.  So, let’s press into Him and embrace every bit of life, liberty, and love He has for us along the way.**
 
-\*You can read about the biological and psychological elements of depression in Part 1 of this article [HERE](21-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-1.html)
+\*You can read about the biological and psychological elements of depression in Part 1 of this article [HERE](/item/21-if-god-is-everything-we-need-why-do-christians-take-medication-for-depression-and-anxiety-part-1/)
 
 **Further Reading:**
 

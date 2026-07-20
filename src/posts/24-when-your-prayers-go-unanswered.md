@@ -12,7 +12,7 @@ topics:
 
 Have you ever wanted something so bad that it hurts? Your thoughts are consumed with dreams, plans, or prayers to make it happen . . . but you have no control over the outcome. So how do you handle the heartbreak when your hopes are shattered instead of fulfilled?
 
-A few years ago, I wrote an article titled [“Dealing with Disappointment”](11-dealing-with-disappointment.html) about my struggle with infertility. Even after God gave us Connor through in-vitro fertilization, my longings continued for a second child. Bob and I pushed forward through many more rounds of fertility treatments, and I had a second pregnancy that ended in a miscarriage . . . but we never had another child. I was devastated.
+A few years ago, I wrote an article titled [“Dealing with Disappointment”](/item/11-dealing-with-disappointment/) about my struggle with infertility. Even after God gave us Connor through in-vitro fertilization, my longings continued for a second child. Bob and I pushed forward through many more rounds of fertility treatments, and I had a second pregnancy that ended in a miscarriage . . . but we never had another child. I was devastated.
 
 But here I am years later, and my heart is in a different place. One moment radically changed my interpretation of these events (and my entire relationship with God), so here's the rest of the story . . .
 

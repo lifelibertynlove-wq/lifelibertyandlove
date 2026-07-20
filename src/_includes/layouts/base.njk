@@ -78,5 +78,19 @@
   })();
 </script>
 <script src="/js/site.js" defer></script>
+<!-- Reftagger (Logos/Faithlife): detecta referencias biblicas y muestra el
+     versiculo en un tooltip al pasar el raton. Gratuito, sin anuncios. -->
+<script>
+  window.refTagger = {
+    settings: {
+      bibleVersion: "ESV",
+      roundCorners: true,
+      socialSharing: [],
+      tooltipStyle: "dark",
+      noSearchTagNames: ["h1","h2","h3","a"]
+    }
+  };
+</script>
+<script src="https://api.reftagger.com/v2/RefTagger.js" defer></script>
 </body>
 </html>

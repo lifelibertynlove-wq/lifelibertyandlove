@@ -8,9 +8,10 @@ category: "Christian Thought"
 image: "/media/k2/items/cache/c99e3db826c0f4cc2688a36ce3b60e1a_XL.jpg"
 topics:
   []
+prev_part: "38-do-christians-really-need-to-go-to-church"
 ---
 
-In part one of this article, I addressed some of the differences between the Church we read about in the New Testament and the customs and mindsets of the Western Church today ([READ HERE](38-do-christians-really-need-to-go-to-church.html)). I concluded that until we return to the true nature of following Christ and of serving one another in our gatherings, we would be left lacking. But since we can’t change the whole Church culture ourselves, where does that leave us – what do we do in the meantime? If we aren’t getting much out of Sunday morning church, is it okay to occasionally skip? Or would that dishonor God and only lead to further discontent and disengagement over time? I do not claim to have all the answers, but as I have worked through these questions personally, I have come up with ten things to help me navigate through this decision.
+In part one of this article, I addressed some of the differences between the Church we read about in the New Testament and the customs and mindsets of the Western Church today ([READ HERE](/item/38-do-christians-really-need-to-go-to-church/)). I concluded that until we return to the true nature of following Christ and of serving one another in our gatherings, we would be left lacking. But since we can’t change the whole Church culture ourselves, where does that leave us – what do we do in the meantime? If we aren’t getting much out of Sunday morning church, is it okay to occasionally skip? Or would that dishonor God and only lead to further discontent and disengagement over time? I do not claim to have all the answers, but as I have worked through these questions personally, I have come up with ten things to help me navigate through this decision.
 
 **1 – What is my motive and expectation for going to church?**
 

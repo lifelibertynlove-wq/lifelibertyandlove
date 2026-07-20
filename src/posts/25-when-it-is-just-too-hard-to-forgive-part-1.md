@@ -8,6 +8,7 @@ category: "Struggles & Overcoming"
 image: "/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_XL.jpg"
 topics:
   []
+next_part: "26-when-it-is-just-too-hard-to-forgive-part-2"
 ---
 
 I check my schedule when I get to the office and notice that a patient was accidentally booked in two appointment slots. My schedule is typically full, so I notify the front office so they can open that spot in case someone calls that day needing to be seen. Later that morning I realize who filled this opening and I begin to fret inside. What possibly could I do or say to help this patient? His daughter was killed just a few weeks prior by a serial killer, and the memorial service happened to be four years to the day after his wife’s memorial service . . . who lost her battle with lung cancer.
@@ -42,4 +43,4 @@ If anyone has a right to hold onto resentment, it is Mark . . . but Mark never h
 
 *\*\*The details of this account were shared with Mark’s permission, but his name was changed to protect his privacy*
 
-Click [HERE](26-when-it-is-just-too-hard-to-forgive-part-2.html) to read PART 2 of this article
+Click [HERE](/item/26-when-it-is-just-too-hard-to-forgive-part-2/) to read PART 2 of this article

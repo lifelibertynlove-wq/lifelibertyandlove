@@ -8,6 +8,7 @@ category: "Responding to Culture"
 image: "/media/k2/items/cache/fc1da7257992fc36032e11db3df7a664_XL.jpg"
 topics:
   []
+next_part: "16-should-christians-do-yoga-part-2"
 ---
 
 My son came home from school telling me about the Star Wars yoga class he did in PE. Though I was well aware of the Christian controversy about yoga, it had not personally affected me until now. I believe God can protect Connor through the activity, and that he has the freedom to do any stretch he wants, but was he was vulnerable to the spiritually ambiguous messages taught during the process? Connor told me the Star Wars yoga video told them to “open the door and let the force in.” I guarantee you they weren’t directing the children to let in the power of Jesus Christ, so what force are they referring to? I am pretty sure ancient yoga didn’t have a millennium falcon pose, so is this just innocent fun, or is Satan targeting our children by appealing to their interests and making Hindu and New Age practices relevant? Is this one way he comes “disguised as an angel of light?”
@@ -44,4 +45,4 @@ Or, I could exert my freedom to hang a confederate flag at my house because I am
 
 Most who practice yoga (Christian or not) are spiritually hungry people who are searching for peace, love, health, and wholeness in their lives. As God does with us, we should seek to look at people’s heart, not just their behavior. No matter what side of the argument we land, scripture instructs us not to pass judgment on one another, but rather pursue what makes for peace and for mutual upbuilding. I am hoping we can at least all agree on that.
 
-[Read Part 2 of this article](16-should-christians-do-yoga-part-2.html)
+[Read Part 2 of this article](/item/16-should-christians-do-yoga-part-2/)

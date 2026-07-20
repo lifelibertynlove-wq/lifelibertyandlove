@@ -8,9 +8,10 @@ category: "Christian Thought"
 image: "/media/k2/items/cache/8b6e33345ac8d5ffd9cf0d107a7d9e9d_XL.jpg"
 topics:
   []
+next_part: "45-overcoming-greed-and-cultivating-generosity-part-2"
 ---
 
-Several years ago, my 4-year-old son confronted my ideas on sharing when I did not want to give some of his toys away (you can read the story [HERE](22-givers-or-takers-what-are-we-cultivating.html)).  Little did I know that was just the beginning of God challenging me in this area. I often thank God for the blessings in my life, which include my many possessions and comforts . . . but I am starting to wonder if some of these things (and the wealth that surrounds me in my community) are not always blessings. Instead, could these comforts be blinding me to the needs and suffering in this world, and actually encumbering my giving and dependence on God?  Scripture warns us that the riches of this world can hinder us from God’s kingdom (1 Timothy 6:6-10), so would it be better if I had “just enough” instead of more than enough?
+Several years ago, my 4-year-old son confronted my ideas on sharing when I did not want to give some of his toys away (you can read the story [HERE](/item/22-givers-or-takers-what-are-we-cultivating/)).  Little did I know that was just the beginning of God challenging me in this area. I often thank God for the blessings in my life, which include my many possessions and comforts . . . but I am starting to wonder if some of these things (and the wealth that surrounds me in my community) are not always blessings. Instead, could these comforts be blinding me to the needs and suffering in this world, and actually encumbering my giving and dependence on God?  Scripture warns us that the riches of this world can hinder us from God’s kingdom (1 Timothy 6:6-10), so would it be better if I had “just enough” instead of more than enough?
 
 > *Give me neither poverty nor riches, but give me only my daily bread.Otherwise, I may have too much and disown you and say, ‘Who is the LORD?' Proverbs 30: 8-9*
 

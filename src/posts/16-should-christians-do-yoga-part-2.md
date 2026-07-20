@@ -8,6 +8,7 @@ category: "Responding to Culture"
 image: "/media/k2/items/cache/c9b002fe1bb0320831a8ae78670fdb6f_XL.jpg"
 topics:
   []
+prev_part: "15-should-christians-do-yoga-part-1"
 ---
 
 I know of two individuals who participated in “Christian yoga,” and no other form of it, who ended up needing prayers of deliverance afterwards. These women were well-respected members of the community, but were overcome by the [Kundalini spirit](https://en.wikipedia.org/wiki/Kundalini) during a prayer session (to the point that it started controlling their body). Somehow their unknowing participation with the Hindu aspects of the practice had opened a spiritual door to the enemy. Because of this potential danger, I know many Christians who shun participation with any form of yoga. But this is not the experience or belief of every Christian. If yoga is wrong, why does it not affect everyone that way?
@@ -40,7 +41,7 @@ Though there may be situations in which individuals have freedom and divine prot
 
 For all of you . . . **“This is my prayer: that your love may abound more and more in knowledge and depth of insight, so that you may be able to discern what is best”** (Philippians 1:9-10). I pray you will personally seek God for wisdom and direction, following His voice of peace in whatever path you choose, and acting on your decision only once you are “fully convinced” in your conscience. As Graham Cooke says, “If He doesn’t speak initially, He will speak eventually.” For one it may be sin, and for another there may be freedom. There are mature Christians on both ends of this debate; is it possible that they are both right?
 
-[READ PART 1 OF THIS ARTICLE](15-should-christians-do-yoga-part-1.html)
+[READ PART 1 OF THIS ARTICLE](/item/15-should-christians-do-yoga-part-1/)
 
 *\*For those who are concerned about spiritual oppression, or other negative effects from their past involvement in yoga - [THIS PRAYER](http://www.deliverancehealing.us/occult-practice-renunciation-prayer/) may be helpful*
 

@@ -24,12 +24,30 @@ layout: layouts/base.njk
   <footer class="post-footer wrap-narrow">
     <div class="leaf-rule" aria-hidden="true"><span class="rule"></span>{% include "leaf.njk" %}<span class="rule"></span></div>
 
+    {% if next_part %}
+      {%- for p in collections.posts -%}{%- if p.fileSlug == next_part -%}
+      <a class="part-link part-link--next" href="{{ p.url }}">
+        <span class="part-link-label">Continue reading &rarr;</span>
+        <span class="part-link-title">{{ p.data.title }}</span>
+      </a>
+      {%- endif -%}{%- endfor -%}
+    {% endif %}
+    {% if prev_part %}
+      {%- for p in collections.posts -%}{%- if p.fileSlug == prev_part -%}
+      <a class="part-link part-link--prev" href="{{ p.url }}">
+        <span class="part-link-label">&larr; Read the first part</span>
+        <span class="part-link-title">{{ p.data.title }}</span>
+      </a>
+      {%- endif -%}{%- endfor -%}
+    {% endif %}
+
     <div class="share" aria-label="Share this post">
       <span class="share-label">Share</span>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | urlencode }}" target="_blank" rel="noopener">Facebook</a>
       <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url | urlencode }}&text={{ title | urlencode }}" target="_blank" rel="noopener">X</a>
       <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url | urlencode }}&media={{ site.url }}{{ image | urlencode }}" target="_blank" rel="noopener">Pinterest</a>
-      <a href="mailto:?subject={{ title | urlencode }}&body={{ site.url }}{{ page.url | urlencode }}">Email</a>
+      <a href="mailto:?subject={{ title | urlencode }}&body={{ title | urlencode }}%20&mdash;%20{{ site.url }}{{ page.url | urlencode }}">Email</a>
+      <button type="button" class="share-print" onclick="window.print()">Print</button>
     </div>
 
     {% set rel = collections.posts | related(page, category, 3) %}
@@ -57,10 +75,10 @@ layout: layouts/base.njk
            data-repo-id y data-category-id que te genere, sustituyéndolos abajo.
       -->
       <script src="https://giscus.app/client.js"
-        data-repo="lifelibertynlove-wq/lifelibertyandlove"
-        data-repo-id="R_kgDOTPssgw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOTPssg84DBD7m"
+        data-repo="REPLACE_ME/lifelibertyandlove"
+        data-repo-id="REPLACE_ME"
+        data-category="Comments"
+        data-category-id="REPLACE_ME"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
