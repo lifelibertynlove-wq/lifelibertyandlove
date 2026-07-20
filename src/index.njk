@@ -60,22 +60,6 @@ permalink: /
   </div>
 </section>
 
-<section class="section section-alt">
-  <div class="wrap">
-    <div class="section-head">
-      <h2 class="section-title">Search by topic</h2>
-    </div>
-    <div class="cat-grid">
-      {% for cat in collections.categories %}
-      <a class="cat-card" href="/blog/?category={{ cat.slug }}">
-        <h3>{{ cat.name }}</h3>
-        <span>{{ cat.count }} posts</span>
-      </a>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
 <section class="section">
   <div class="wrap about-teaser">
     <img src="/images/carey-portrait.jpg" alt="Carey McNamara" loading="lazy">
