@@ -2,14 +2,17 @@
 layout: layouts/base.njk
 permalink: /
 ---
-{# ---- Resolver artículos destacados (con fallback a los más recientes) ---- #}
+{# ---- Resolver artículos destacados (robusto ante formato del slug) ---- #}
 {% set featuredPosts = [] %}
 {% for slug in featured.slugs %}
   {% for p in collections.posts %}
-    {% if p.fileSlug == slug %}{% set featuredPosts = (featuredPosts.push(p), featuredPosts) %}{% endif %}
+    {%- set fileslug = p.fileSlug -%}
+    {%- set noNum = fileslug | replace(r/^\d+-/, "") -%}
+    {% if p.fileSlug == slug or noNum == slug or fileslug == ("" ~ slug) %}{% set featuredPosts = (featuredPosts.push(p), featuredPosts) %}{% endif %}
   {% endfor %}
 {% endfor %}
-{% if featuredPosts.length < 3 %}{% set featuredPosts = collections.posts | limit(5) %}{% endif %}
+{# Fallback SOLO si no se encontró ninguno válido (evita mezclar posts al azar) #}
+{% if featuredPosts.length == 0 %}{% set featuredPosts = collections.posts | limit(5) %}{% endif %}
 
 <section class="carousel" id="carousel" aria-roledescription="carousel" aria-label="Featured posts">
   <div class="carousel-track">

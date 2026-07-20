@@ -51,6 +51,6 @@ collections:
               widget: "relation"
               collection: "posts"
               search_fields: ["title"]
-              value_field: "{{slug}}"
+              value_field: "{{filename}}"
               display_fields: ["title", "category"]
               options_length: 60
