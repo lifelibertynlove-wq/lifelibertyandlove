@@ -210,12 +210,15 @@ a:hover { color: var(--green-dark); }
 
 /* ---------- Carousel (portada) ---------- */
 .carousel { position: relative; background: #14211a; overflow: hidden; }
-.carousel-track { position: relative; min-height: clamp(430px, 58vh, 580px); }
+.carousel-track {
+  position: relative;
+  height: clamp(430px, 58vh, 580px);
+}
 .slide {
   position: absolute; inset: 0; opacity: 0; visibility: hidden;
   transition: opacity 0.7s ease; display: flex; align-items: center;
 }
-.slide.is-active { opacity: 1; visibility: visible; position: relative; }
+.slide.is-active { opacity: 1; visibility: visible; }
 .slide-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 /* Bottom gradient so dots stay legible on the image, no coloured band */
 .carousel::after {
