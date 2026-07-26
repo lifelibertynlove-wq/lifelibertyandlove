@@ -42,11 +42,11 @@ layout: layouts/base.njk
     {% endif %}
 
     <div class="share" aria-label="Share this post">
-      <span class="share-label">Share</span>
+      <span class="share-label">Share this post</span>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | urlencode }}" target="_blank" rel="noopener">Facebook</a>
       <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url | urlencode }}&text={{ title | urlencode }}" target="_blank" rel="noopener">X</a>
-      <a href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url | urlencode }}&media={{ site.url }}{{ image | urlencode }}" target="_blank" rel="noopener">Pinterest</a>
       <a href="mailto:?subject={{ title | urlencode }}&body={{ title | urlencode }}%20&mdash;%20{{ site.url }}{{ page.url | urlencode }}">Email</a>
+      <button type="button" class="share-copy" data-url="{{ site.url }}{{ page.url }}">Copy link</button>
       <button type="button" class="share-print" onclick="window.print()">Print</button>
     </div>
 
@@ -68,16 +68,29 @@ layout: layouts/base.njk
     <section class="comments" id="comments">
       <h2 class="section-title">Join the conversation</h2>
       <!--
-        GISCUS (comentarios gratuitos vía GitHub Discussions).
-        1. Activa "Discussions" en el repositorio de GitHub del sitio.
-        2. Instala la app https://github.com/apps/giscus en ese repositorio.
-        3. Ve a https://giscus.app , introduce el repositorio y copia los valores
-           data-repo-id y data-category-id que te genere, sustituyéndolos abajo.
+        ============================================================
+        GISCUS — comentarios gratuitos y SIN ANUNCIOS (via GitHub Discussions).
+        FALTAN 3 VALORES por rellenar (data-repo-id y data-category-id).
+        Pasos (5 min, una sola vez):
+          1. En GitHub, repo lifelibertynlove-wq/lifelibertyandlove:
+             Settings > General > Features > marca "Discussions".
+          2. Instala la app: https://github.com/apps/giscus > Install
+             > selecciona ESE repositorio.
+          3. Ve a https://giscus.app y en "Repository" escribe:
+             lifelibertynlove-wq/lifelibertyandlove
+             (debe salir un check verde "giscus esta instalado").
+          4. En "Discussion Category" elige "Announcements" (o crea "Comments").
+          5. giscus.app te genera un bloque <script> con estos 3 valores:
+                data-repo-id="R_..."
+                data-category="Announcements"
+                data-category-id="DIC_..."
+             Copialos y sustituyelos abajo (quita los REPLACE_ME).
+        ============================================================
       -->
       <script src="https://giscus.app/client.js"
-        data-repo="REPLACE_ME/lifelibertyandlove"
+        data-repo="lifelibertynlove-wq/lifelibertyandlove"
         data-repo-id="REPLACE_ME"
-        data-category="Comments"
+        data-category="Announcements"
         data-category-id="REPLACE_ME"
         data-mapping="pathname"
         data-strict="0"

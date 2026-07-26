@@ -6,6 +6,7 @@ date: 2025-10-05
 author: Carey McNamara
 category: "Christian Thought"
 image: "/media/k2/items/cache/64d93d666355a43c4a86679a030d35b6_XL.jpg"
+next_part: "47-the-hidden-power-of-shabbat-part-2"
 topics:
   []
 ---

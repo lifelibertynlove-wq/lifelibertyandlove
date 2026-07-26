@@ -91,3 +91,23 @@ if (carousel) {
 
   play();
 }
+
+// Copy link button on posts
+document.querySelectorAll('.share-copy').forEach((btn) => {
+  btn.addEventListener('click', async () => {
+    const url = btn.dataset.url;
+    try {
+      await navigator.clipboard.writeText(url);
+      const original = btn.textContent;
+      btn.textContent = 'Link copied!';
+      btn.classList.add('is-copied');
+      setTimeout(() => { btn.textContent = original; btn.classList.remove('is-copied'); }, 2000);
+    } catch (e) {
+      // Fallback para navegadores sin clipboard API
+      const tmp = document.createElement('input');
+      tmp.value = url; document.body.appendChild(tmp); tmp.select();
+      try { document.execCommand('copy'); btn.textContent = 'Link copied!'; setTimeout(() => btn.textContent = 'Copy link', 2000); } catch (_) {}
+      document.body.removeChild(tmp);
+    }
+  });
+});
