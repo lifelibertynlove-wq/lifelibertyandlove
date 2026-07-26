@@ -64,6 +64,22 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
 
+  // Filtros para el feed RSS (envío automático por email vía MailerLite)
+  eleventyConfig.addFilter("rssDate", (d) => new Date(d).toUTCString());
+  eleventyConfig.addFilter("striptags", (s) => String(s).replace(/<[^>]+>/g, ""));
+  eleventyConfig.addFilter("cleanText", (s) =>
+    String(s)
+      .replace(/&nbsp;|&amp;nbsp;/g, " ")
+      .replace(/\(READ HERE\)|\(read the story HERE\)/gi, "")
+      .replace(/\s{2,}/g, " ")
+      .trim()
+  );
+  eleventyConfig.addFilter("truncate", (s, n) => {
+    const str = String(s);
+    if (str.length <= n) return str;
+    return str.slice(0, n).replace(/\s\S*$/, "") + "\u2026";
+  });
+
   eleventyConfig.addFilter("related", (posts, page, category, n) => {
     return posts
       .filter((p) => p.url !== page.url && p.data.category === category)
