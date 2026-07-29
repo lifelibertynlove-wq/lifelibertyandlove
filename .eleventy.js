@@ -58,7 +58,27 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("jsonify", (v) => JSON.stringify(v));
 
+  eleventyConfig.addFilter("amp", (s) =>
+    String(s).replace(/&amp;|&/g, '<span class="amp">&amp;</span>')
+  );
+
   eleventyConfig.addFilter("limit", (arr, n) => arr.slice(0, n));
+
+  // Filtros para el feed RSS (envío automático por email vía MailerLite)
+  eleventyConfig.addFilter("rssDate", (d) => new Date(d).toUTCString());
+  eleventyConfig.addFilter("striptags", (s) => String(s).replace(/<[^>]+>/g, ""));
+  eleventyConfig.addFilter("cleanText", (s) =>
+    String(s)
+      .replace(/&nbsp;|&amp;nbsp;/g, " ")
+      .replace(/\(READ HERE\)|\(read the story HERE\)/gi, "")
+      .replace(/\s{2,}/g, " ")
+      .trim()
+  );
+  eleventyConfig.addFilter("truncate", (s, n) => {
+    const str = String(s);
+    if (str.length <= n) return str;
+    return str.slice(0, n).replace(/\s\S*$/, "") + "\u2026";
+  });
 
   eleventyConfig.addFilter("related", (posts, page, category, n) => {
     return posts
@@ -66,10 +86,21 @@ module.exports = function (eleventyConfig) {
       .slice(0, n || 3);
   });
 
-  eleventyConfig.setLibrary(
-    "md",
-    require("markdown-it")({ html: true, typographer: true })
-  );
+  const md = require("markdown-it")({ html: true, typographer: true });
+  // Enlaces externos abren en pestaña nueva (para no perder el artículo que se lee).
+  // Los enlaces internos del propio sitio se quedan en la misma pestaña.
+  const defaultRender = md.renderer.rules.link_open ||
+    function (tokens, idx, options, env, self) { return self.renderToken(tokens, idx, options); };
+  md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+    const href = tokens[idx].attrGet("href") || "";
+    const isExternal = /^https?:\/\//.test(href) || href.startsWith("mailto:");
+    if (isExternal) {
+      tokens[idx].attrSet("target", "_blank");
+      tokens[idx].attrSet("rel", "noopener noreferrer");
+    }
+    return defaultRender(tokens, idx, options, env, self);
+  };
+  eleventyConfig.setLibrary("md", md);
 
   return {
     dir: { input: "src", includes: "_includes", output: "_site" },
