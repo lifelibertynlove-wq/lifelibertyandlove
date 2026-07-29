@@ -111,9 +111,9 @@ a:hover { color: var(--green-dark); }
   display: flex; align-items: center; justify-content: space-between;
   padding-block: 22px;
 }
-.brand img { width: 340px; height: auto; }
-@media (max-width: 900px) { .brand img { width: 280px; } }
-@media (max-width: 600px) { .brand img { width: 220px; } }
+.brand img { width: 380px; height: auto; }
+@media (max-width: 900px) { .brand img { width: 300px; } }
+@media (max-width: 600px) { .brand img { width: 230px; } }
 .nav-list {
   display: flex; align-items: center; gap: 28px;
   list-style: none; margin: 0; padding: 0;
