@@ -53,7 +53,7 @@ God’s Word teaches us that beauty is found in the fruits of the Spirit: love, 
 I could go on and on.  But clearly true beauty has nothing to do with whether someone is wearing make up. It is about living and serving from the heart, while staying connected to God’s love.
 
 Did you know that even Jesus was not attractive? He had “no form or beauty that we should desire” (Isaiah 53:2-3). But He radiated with every fruit of the Spirit, so people were drawn to Him. As John Piper says,
-["**The beauty of Christ is the beauty of love, not looks. It's the beauty of sacrifice, not skin.**"](https://twitter.com/intent/tweet?url=http%3A%2F%2Flifelibertyandlove.com%2Fitem%2F30-why-i-stopped-wearing-makeup&text=%22The+beauty+of+Christ+is+the+beauty+of+love%2C+not+looks.+It%27s+the+beauty+of+sacrifice%2C+not+skin.%22)
+"**The beauty of Christ is the beauty of love, not looks. It's the beauty of sacrifice, not skin.**"
 
 Like Jesus, we too exude what is in our heart. So do people leave us feeling uplifted or downbeat? Do we radiate with joy or with negativity? Though we may initially be drawn to someone’s appearance, it is one's countenance that ultimately leaves a lasting impression.
 

@@ -30,7 +30,7 @@ There is a scripture in Deuteronomy that says, “Today I lay before you life an
 
 My victory came when I learned to respond in the opposite spirit of the world; only *then* could I discover the fullness of joy and freedom God desired for me.
 
-As [Lysa Terkeurst](https://smile.amazon.com/Embraced-Devotions-Know-Holding-Close/dp/1400310296/ref=sr_1_3?keywords=lysa+terkeurst+embraced&qid=1561290556&s=gateway&sr=8-3) points out, **"The secret to healthy conflict resolution isn't taking a you-against-me-stance, but realizing it's all of us against Satan - he's the real Enemy."** She goes on to say, "Behind every harsh critic is usually a brokenhearted person desperate for love." If we can soften our hearts to recognize this, then there is hope for healing in the relationship.
+As [Lysa Terkeurst](https://smile.amazon.com/Embraced-Devotions-Know-Holding-Close/dp/1400310296/ref=sr_1_3?keywords=lysa+terkeurst+embraced&qid=1561290556&s=gateway&sr=8-3) points out, **"The secret to healthy conflict resolution isn't taking a you-against-me-stance, but realizing it's all of us against Satan - he's the real Enemy.**" She goes on to say, "Behind every harsh critic is usually a brokenhearted person desperate for love." If we can soften our hearts to recognize this, then there is hope for healing in the relationship.
 
 As this prayer by St. Francis of Assisi notes, it was ulitmately through seeking to comfort and understand others that I found the comfort I needed for my own soul.
 

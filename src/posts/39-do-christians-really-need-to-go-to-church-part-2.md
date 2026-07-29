@@ -86,7 +86,7 @@ If I am not modeling a Godly life at home, one hour of teaching on Sunday mornin
 Sunday mornings were never meant to be our only hour of Godly pursuit and spiritual nourishment – this alone will never be enough to help us live victoriously throughout the week. It is our regular pursuit of God through prayer, Scripture reading, etc. that helps us hear God’s voice for the practical stuff in our lives.
 
 As Jim Cymbala, the pastor of Brooklyn Tabernacle Church wrote,
-[**“No matter what I preach or what we claim to believe in our heads, the future will depend upon our times of prayer.”**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F39-do-christians-really-need-to-go-to-church-part-2&text=%E2%80%9CNo+matter+what+I+preach+or+what+we+claim+to+believe+in+our+heads%2C+the+future+will+depend+upon+our+times+of+prayer.%E2%80%9D)
+“No matter what I preach or what we claim to believe in our heads, the future will depend upon our times of prayer.”
 
 [Richard Foster](https://smile.amazon.com/Prayer-Finding-Hearts-True-Home/dp/0060628464/ref=sr_1_fkmrnull_1?crid=2OO82Q7LB3RLT&keywords=prayer+finding+the+hearts+true+home%2C+richard+foster&qid=1558366770&s=gateway&sprefix=richard+foster+find%2Caps%2C210&sr=8-1-fkmrnull) explained, "The primary purpose of prayer is to bring us into such a life of communion with the Father that, by the power of the Spirit, we are increasingly conformed to the image of the Son.” Maybe this is why God said His house would be a house of prayer (Matthew 21:13).
 

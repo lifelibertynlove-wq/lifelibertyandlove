@@ -20,7 +20,7 @@ So there is a spiritual migration going on. People are searching for a better wa
 
 And I could not agree more. We absolutely need to separate ourselves from the falsehoods, the dead religious traditions, and the harsh judgments that inaccurately portray the Christ we follow . . . *but what we migrate to is of enormous importance.* Is the authority of Scripture still revered, and is Jesus still Lord in that new paradigm?
 
-We tend to like things black and white, so we often settle more heavily on one side of an argument (sometimes teetering from one extreme view to another). This is what can happen when people recognize the “wrongs” within a church; instead of sorting out which elements should be tossed aside, they pull to the opposite extreme and throw out everything connected with God and the church. But unchallenged tolerance (the opposite extreme) is not the best approach either - authentic faith and wholehearted love is not steeped in denial, appeasement, or the refusal to question or anything. As Kris Vollotton wrote, "**We must love others MORE THAN we love our convictions, but we can’t love others INSTEAD OF our convictions."** We should not encourage an “anything goes” mentality of freedom (Romans 6:15), but at the same time, it is not our job to involve ourselves in “sin management.”
+We tend to like things black and white, so we often settle more heavily on one side of an argument (sometimes teetering from one extreme view to another). This is what can happen when people recognize the “wrongs” within a church; instead of sorting out which elements should be tossed aside, they pull to the opposite extreme and throw out everything connected with God and the church. But unchallenged tolerance (the opposite extreme) is not the best approach either - authentic faith and wholehearted love is not steeped in denial, appeasement, or the refusal to question or anything. As Kris Vollotton wrote, "**We must love others MORE THAN we love our convictions, but we can’t love others INSTEAD OF our convictions.**" We should not encourage an “anything goes” mentality of freedom (Romans 6:15), but at the same time, it is not our job to involve ourselves in “sin management.”
 
 It all comes down to the paradox of faith *- we live in a balance between two apparently contradictory ideas that are actually complimentary.* **So in the end, if we end up pursuing *just* knowledge, or *just* love, we abandon the healthy tension that is required for us to walk in wisdom.** As we each search for truth, and the loving application of it in our culture today, it is imperative that we use discernment (James 1:5, 1 Thessalonians 5:21, Philippians 1:9-10, Hebrews 5:14, Romans 12:2, John 7:24, Proverbs 2:1-5, Colossians 2:8, Hosea 14:9). We must learn how to eat the meat and spit out the bones.
 
@@ -48,7 +48,7 @@ In the end, if there appears to be a contradiction between Scripture and the mer
 
 The real danger enters when we begin to question the validity of Scripture, because people will then use their own standards to form a version of God who does not disagree with them. Eventually everyone is accepted for whatever they believe (as long as they are sincere), but this tolerance is actually a masked form of universalism. It becomes rude and unloving to question someone’s beliefs or lifestyle, and thus a postmodern church is established . . . one where everyone can live by their own version of truth, all in the name of “acceptance, love, and grace.” *And the gospel disintegrates.*
 
-> **[If you believe what you like in the gospels, and reject what you don’t like, it is not the gospel you believe, but yourself. – attributed to St. Augustine](https://twitter.com/intent/tweet?url=http%3A%2F%2Flifelibertyandlove.com%2Fitem%2F32-why-are-so-many-christians-walking-away-from-their-faith&text=If+you+believe+what+you+like+in+the+gospels%2C+and+reject+what+you+don%E2%80%99t+like%2C+it+is+not+the+gospel+you+believe%2C+but+yourself.+%E2%80%93+attributed+to+St.+Augustine)**
+> **If you believe what you like in the gospels, and reject what you don’t like, it is not the gospel you believe, but yourself. – attributed to St. Augustine**
 
 The enemy is targeting compassionate Christians as they wake up to the injustices within the church and distorting their journey for truth by pushing them away from the safety of God’s Word and community. The enemy does not mislead us through blatant expressions of evil; instead he comes disguised in a form of light (2 Corinthians 11:14). He will use any means possible to destroy the Church, and I believe he is currently doing this by exploiting people’s mercy heart (2 Timothy 4:3, 1 Peter 5:8). Some may refer to it as operating in unsanctified mercy . . . when we end up doing the wrong thing for the right reason. We must be so careful what we are tolerating and defining as “good,” because the wisdom of the world is very different from the wisdom of God (1 Corinthians 3:19, 1 Corinthians 1:20, Isaiah 5:20-21).
 
@@ -66,16 +66,16 @@ Dallas Willard explains, **“Faith was never meant to exist outside of knowledg
 
 I know now that even under the Great Commission (Matthew 28:19-20), it is not my job to convert people - if God wants someone to change then that part is up to Him. So I can stop pulling “authoritarian” on everyone and trying to indoctrinate them to my beliefs . . . and instead just enter a dialogue with them. As Dallas Willard put it, “We can be joint seekers of truth together.” It should never be about winning an argument; it is about listening well (Proverbs 18:13), and simply loving people right where they are (1 Peter 4:8, Romans 2:4).
 
-> **[An open ear is the only believable sign of an open heart. Being heard is so close to being loved that for the average person they are almost indistinguishable.](https://twitter.com/intent/tweet?url=http%3A%2F%2Flifelibertyandlove.com%2Fitem%2F32-why-are-so-many-christians-walking-away-from-their-faith&text=An+open+ear+is+the+only+believable+sign+of+an+open+heart.+Being+heard+is+so+close+to+being+loved+that+for+the+average+person+they+are+almost+indistinguishable.%E2%80%93+David+Augsburger)**– David Augsburger
+> **An open ear is the only believable sign of an open heart. Being heard is so close to being loved that for the average person they are almost indistinguishable.**– David Augsburger
 
 A.J. Swoboda once said, “The world is changed by listeners,” so I am just wondering if there are any fellow world changers out there who want to join me?
 
 Further Reading:
 
-[A Letter To My God-Fearing (Conservative) Parents](http://www.happysonship.com/a-letter-to-my-god-fearing-conservative-parents/) by Carlos Rodriguez
+[A Letter To My God-Fearing (Conservative) Parents](https://thehappygivers.com/es/blogs/faith-culture/a-letter-to-our-conservative-parents) by Carlos Rodriguez
 
 [How To Hold Fast To The Real Gospel Without Watering Down Love](https://krisvallotton.com/how-to-hold-fast-to-the-real-gospel-without-watering-down-love/) by Kris Vallotton
 
 Worth a Listen:
 
-Andley Stanley's sermon: "Reclaiming Irresistible" about the current generation that is losing confidence in the Bible and walking away from their faith
+Andy Stanley's sermon: ["Reclaiming Irresistible"](https://www.youtube.com/watch?v=bGCIOrvgohU) about the current generation that is losing confidence in the Bible and walking away from their faith

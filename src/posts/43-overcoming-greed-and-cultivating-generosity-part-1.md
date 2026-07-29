@@ -69,7 +69,7 @@ So, I am seeking to encounter God’s heart regularly, in every way I can . . . 
 
 Ultimately only what is done for Christ will last . . . so I need to consider now what kind of legacy I want to leave behind. I have a plaque in my office that reads “Eternity.” I put it there as a reminder that I should spend my time and money on the things that really matter . . . because whatever I do for the “least of these,” I do for Christ (Matthew 25:40).
 
-As Jim Elliot wrote, **"He is no fool who gives what He cannot keep to gain what he cannot lose."**
+As Jim Elliot wrote, **"He is no fool who gives what He cannot keep to gain what he cannot lose.**"
 
 6 – **Recognize God wants to bless me SO THAT I can be a blessing.**
 

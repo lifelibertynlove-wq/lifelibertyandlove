@@ -26,7 +26,7 @@ According to 1 Corinthians 13:1-13, our good works, our extreme acts of charity,
 
 Scripture says God created *all* mankind in His image, every single one of us (Genesis 1:27). So as humans (not just as Christians), we carry the nature of God within us . . . whether we acknowledge Him as God or not. We were created *in* love and *for* love, so we *all* have the capacity to operate with God’s heart and “do His will.” Just because someone has not discovered Jesus yet, or may even be hostile toward Him because of their negative experiences with religion, does not mean they cannot honor God with their life.
 
-> **[When we operate with authentic love, we glorify God . . . even as a non-Christian. Anytime hope is released or truth is spoken, Jesus wins.](https://twitter.com/intent/tweet?url=http%3A%2F%2Flifelibertyandlove.com%2Fitem%2F36-you-don-t-have-to-be-a-christian-to-honor-god&text=When+we+operate+with+authentic+love%2C+we+glorify+God+.+.+.+even+as+a+non-Christian.+Anytime+hope+is+released+or+truth+is+spoken%2C+Jesus+wins.)**
+> **When we operate with authentic love, we glorify God . . . even as a non-Christian. Anytime hope is released or truth is spoken, Jesus wins.**
 
 Do I believe that all paths lead to God? No (John 14:6, Acts 4:12). But do I believe there are multiple ways to connect with God’s love and express that through different faiths, as people do their best to seek Him out? Absolutely.
 
@@ -69,7 +69,7 @@ Has the church lost this vision, and that’s why an all-inclusive mentality of 
 In the end, what makes a greater impact – seeing someone wear a Christian t-shirt, or watching a video of someone defending the outcast? What inspires others to move in love - learning about someone’s perfect church attendance, or hearing how someone went out of their way to help a stranger (Luke 10:25-37)? What honored God more - the Pro-Life couple who threw out their pregnant teenager for her sin, or the Pro-Choice woman who took her in and helped her raise her child? *(true story)*
 
 St. Francis of Assisi once said,
-[**“Go forth preaching always; if necessary use words.”**](https://twitter.com/intent/tweet?url=http%3A%2F%2Flifelibertyandlove.com%2Fitem%2F36-you-don-t-have-to-be-a-christian-to-honor-god&text=%E2%80%9CGo+forth+preaching+always%3B+if+necessary+use+words.%E2%80%9D)
+“Go forth preaching always; if necessary use words.”
 Are there some non-believers who do this better than Christians? I am sure there are. But should this be? I wonder if the warning in Matthew 7 is really just an invitation back to our original calling as believers to do “the will of the Father?” Because in the end,
 
 > **The only thing that counts is faith expressing itself through love.** (Galatians 5:6)

@@ -16,7 +16,7 @@ I know these questions plague many people, and can even be the factor that imped
 
 After first hearing those statistics, I thought, “If I had that much money, I would use it to help others.” But it is not my business what other people do with their money, time, and gifts . . . but rather what will I do with mine. Shane explains, in the kingdom, “God does not look at the sum of things we have done or given; He looks at the ratio of what we have done with what we have been given” (Luke 21:1-4).
 
-> [Don't let what you cannot do interfere with what you can do. - John Wooden](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F27-don-t-waste-your-life&text=Don%27t+let+what+you+cannot+do+interfere+with+what+you+can+do.+-+John+Wooden)
+> Don't let what you cannot do interfere with what you can do. - John Wooden
 
 Shockingly, I learned that if you own a car you are part of the richest 10% of the world. According to Milanovic’s book, [*The Haves and the Have-Nots*](https://www.amazon.com/Haves-Have-Nots-Idiosyncratic-History-Inequality/dp/0465031412/ref=sr_1_1?ie=UTF8&qid=1521902988&sr=8-1&keywords=the+haves+and+the+have+nots+milanovic), earning $34,000 a year puts you in the top 1% of the wealth of the world, and earning $70,000 a year puts you in the top 0.1%. When I compare myself to others in my little Mount Pleasant, SC setting, I do not think of myself as rich. But if I put things in proper perspective, I am filthy rich . . . *and much is expected of me* (Luke 12:48).
 
@@ -40,14 +40,14 @@ Jesus invites us to a life of abundance found in Him, but He never promised us �
 
 Satan wants us to believe that *this* is the good life, but the abundant life is actually discovered when we give ours away (Luke 17:33). When we deny ourselves and “pick up our cross” to follow Him,” we join the dance with the trinity . . . and *there is no other joy like it on this earth* (Matthew 16:24). Here we discover that a life of shalom is far more fulfilling than a life of mere comfort.
 
-[As the late missionary Jim Elliot said, **“He is no fool who gives what he cannot keep to gain what he cannot lose”**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F27-don-t-waste-your-life&text=As+the+late+missionary+Jim+Elliot+said%2C+%E2%80%9CHe+is+no+fool+who+gives+what+he+cannot+keep+to+gain+what+he+cannot+lose%E2%80%9D)
+As the late missionary Jim Elliot said, **“He is no fool who gives what he cannot keep to gain what he cannot lose”
  (Mark 8:36).
 
 In [*The Screwtape Letters*](https://www.amazon.com/Screwtape-Letters-C-S-Lewis/dp/0060652934/ref=sr_1_1?s=books&ie=UTF8&qid=1521818561&sr=1-1&keywords=the+screwtape+letters), C.S. Lewis writes a fictional account of a senior devil instructing his nephew in the techniques of tempting people away from God. He tells his nephew that the objective is not to make the people wicked, but to make them *indifferent.* I believe this indifference is the tragedy Piper references. In his book, [*A Hunger for God*](https://www.amazon.com/Hunger-God-Redesign-Desiring-through/dp/1433537265/ref=sr_1_1?s=books&ie=UTF8&qid=1521818589&sr=1-1&keywords=a+hunger+for+god), Piper writes . . .
 
-> [If you don't feel strong desires for the manifestation of the glory of God, it is not because you have drunk deeply and are satisfied. It is because you have nibbled so long at the table of the world. Your soul is stuffed with small things, and there is no room for the great.](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F27-don-t-waste-your-life&text=If+you+don%27t+feel+strong+desires+for+the+manifestation+of+the+glory+of+God%2C+it+is+not+because+you+have+drunk+deeply+and+are+satisfied.+It+is+because+you+have+nibbled+so+long+at+the+table+of+the+world.+Your+soul+is+stuffed+with+small+things%2C+and+there+is+no+room+for+the+great.)
+> If you don't feel strong desires for the manifestation of the glory of God, it is not because you have drunk deeply and are satisfied. It is because you have nibbled so long at the table of the world. Your soul is stuffed with small things, and there is no room for the great.
 
-[Dwight Moody warned us years ago, **“Our biggest fear should not be failure, but at succeeding at things that don’t really matter.”**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F27-don-t-waste-your-life&text=Dwight+Moody+warned+us+years+ago%2C+%E2%80%9COur+biggest+fear+should+not+be+failure%2C+but+at+succeeding+at+things+that+don%E2%80%99t+really+matter.%E2%80%9D)
+Dwight Moody warned us years ago, **“Our biggest fear should not be failure, but at succeeding at things that don’t really matter.”
 God is longing to give us the nations (Psalms 2:8), but many of us are content with cupcakes and Facebook. I know I was. I was indifferent to other people’s suffering because I lived a sheltered life of comfort, and indifferent to sharing my faith because I was content with my “Christian” routine of going to church and Bible study.
 
 My pastor Steve Wood recently taught on the difference between intellectual faith and volitional faith. He explained that for faith to be authentic, one’s life must testify to those beliefs; the “action” element is critical. Volitional faith is the faith that justifies, the one that actually results in a transformed life.
@@ -56,7 +56,7 @@ When we *truly* encounter the love of Christ, we are *transformed* . . . and our
 
 The Hebrew word for “hear” or “listen” is “[shema](http://www.egrc.net/articles/Rock/HebrewWords/shema.html),” and it means more than just processing sound with our ears. Shema means to listen AND obey, to take heed and do what is asked. When Jesus said, “He who has ears let him hear,” He was calling the people to action, to be doers of the Word (Matthew 13:9, James 1:22-25). *This* is volitional faith. As John Wimber put it, **"The kingdom is about *doing* just as much as teaching. If you aren't doing the works of the kingdom; the message isn't complete."**
 
-We were made to be a part of something bigger than ourselves, and because of this, our greatest joys will never be found in the pleasures of this world - they are discovered as we abandon ourselves to the adventure of following God. Only then will we discover our divine purpose, and enter into the joy of our Master (Matthew 25:21). I believe this is what Irenaeus meant when he said, **"The glory of God is a human being fully alive."**
+We were made to be a part of something bigger than ourselves, and because of this, our greatest joys will never be found in the pleasures of this world - they are discovered as we abandon ourselves to the adventure of following God. Only then will we discover our divine purpose, and enter into the joy of our Master (Matthew 25:21). I believe this is what Irenaeus meant when he said, **"The glory of God is a human being fully alive.**"
 
 As William Wallace said, "Every man dies. Not every man really lives."  To REALLY live, we must run our race as if we are running to "win the prize" (1 Corinthians 9:24).
 
@@ -66,7 +66,7 @@ As William Wallace said, "Every man dies. Not every man really lives."  To REALL
 
 We are citizens of another kingdom, exiles on earth for a short season, and we have this one little life of ours to *do something* (Philippians 3:20-21). So let’s not bury our talents any longer – let’s take hold of the eternal life to which we were called, and make the most of all our days (Ephesians 5:15-16). Freely we have received; freely we must give (Matthew 10:8).
 
-> [The cost of quitting will be a life of peaceful stagnation.  We sons of eternity just cannot afford such a thing. - W. A. Tozer](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F27-don-t-waste-your-life&text=The+cost+of+quitting+will+be+a+life+of+peaceful+stagnation.+%26nbsp%3BWe+sons+of+eternity+just+cannot+afford+such+a+thing.+-+W.+A.+Tozer)
+> The cost of quitting will be a life of peaceful stagnation.  We sons of eternity just cannot afford such a thing. - W. A. Tozer
 
 My brothers and sisters in Christ, there is a huge harvest waiting to be reaped (Matthew 9:37); let us put away our hesitation and procrastination . . .  **KADIMA!**
 
@@ -81,7 +81,7 @@ It is important to note that wealth is not innately bad; rather, it is the *love
 In the New Testament there is no mention of a 10% tithe, only of sacrificial giving. Believers shared everything they had with anyone in need (Acts 4:32-35). If I am truly going to take God’s Word seriously, this Scripture challenges me! But the key is to start by doing *something* to help further God’s kingdom on earth, which may or may not include our finances. The sacrifice of our time and energy can be just as much a gift to others.
 
 Can we agree to at least start somewhere? Maybe that means taking a meal to the new mom or widow in the neighborhood, or inviting the new neighbors over. Maybe it means speaking an encouraging word to the cashier at the grocery store, starting a Bible study with your co-workers, or volunteering in the nursery at church. We can make a difference in many meaningful ways outside of simply writing a check. As
-[D.L. Moody once said, **"We may easily be too big for God to use, but never too small."**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F27-don-t-waste-your-life&text=D.L.+Moody+once+said%2C+%22We+may+easily+be+too+big+for+God+to+use%2C+but+never+too+small.%22)
+D.L. Moody once said, **"We may easily be too big for God to use, but never too small."
 
 Mother Theresa set a great example for us because she never looked at the masses as her responsibility; she looked at the individual. She knew she could only love and feed one person at a time. Mother Theresa was quick to point out that we do not make an impact by doing great things, but by doing**“small things with great love.”**
 

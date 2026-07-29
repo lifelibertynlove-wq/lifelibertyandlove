@@ -32,14 +32,14 @@ Most people with same-sex-attractions have wrestled with their identity and plac
 
 We need more people who are willing to bind up the wounds of the gay community, religious approval aside. Alistair Begg said it well . . .
 
-> [**Until the church learns how to cry, it loses any right to shout.**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F9-how-should-the-church-respond-to-homosexuality&text=Until+the+church+learns+how+to+cry%2C+it+loses+any+right+to+shout.)
+> Until the church learns how to cry, it loses any right to shout.
 
 In Brennan Manning's book, "[Souvenirs of Solitude](https://www.amazon.com/Souvenirs-Solitude-Finding-Abbas-Embrace/dp/1600068677/ref=sr_1_1?ie=UTF8&qid=1510860615&sr=8-1&keywords=souvenirs+of+solitude&dpID=51LxQ1jLbRL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)," he points out something profound about the passage in chapter 8 of John's gospel.  This was the story about the woman caught in adultery.  The Pharisees and crowd dragged her before Jesus and asked what they should do with her.  The Law of Moses said she should be stoned, but the Romans wouldn't let them stone people.  Jesus began to write in the sand and then said, "If anyone of you is without sin, let him be the first to throw a stone at her."  The people left one at a time until only Jesus was standing there with the woman.  He asked her, "Is there no one here to condemn you?"  She replied, "No one, Lord."  He answered, "Neither do I condemn you; go, and from now on sin no more."
 
-Manning expounds on this and says, "Get the picture.  Jesus didn't ask her if she was sorry.  He didn't demand a firm purpose of amendment.  He didn't seem too concerned that she might dash back into the arms of her lover.  She just stood there, and Jesus gave her absolution before she asked for it.  That particular passage was so scandalous in the early church that though it is certainly part of an ancient gospel tradition, it didn't get included in the gospel story for almost a hundred years.  The early Christian moralists had a much stricter idea of good and evil than Jesus did, so they tried to hush up this incident because it made Jesus look too lenient.  **And that's the nature of God's love for us - a love that is positively scandalous, a love that's embarrassing."**
+Manning expounds on this and says, "Get the picture.  Jesus didn't ask her if she was sorry.  He didn't demand a firm purpose of amendment.  He didn't seem too concerned that she might dash back into the arms of her lover.  She just stood there, and Jesus gave her absolution before she asked for it.  That particular passage was so scandalous in the early church that though it is certainly part of an ancient gospel tradition, it didn't get included in the gospel story for almost a hundred years.  The early Christian moralists had a much stricter idea of good and evil than Jesus did, so they tried to hush up this incident because it made Jesus look too lenient.  **And that's the nature of God's love for us - a love that is positively scandalous, a love that's embarrassing.**"
 
 I am not encouraging believers to compromise truth for the sake of keeping the peace (or being "politically correct"), but we should not hold truth to such a high value that it outshines love. This is what the religious leaders did in Jesus' day, and He ruthlessly spoke against it (Matthew 23:1-4).  
-[**So if our actions are imprisoning people instead of setting them free, we need to take a second look.**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F9-how-should-the-church-respond-to-homosexuality&text=So+if+our+actions+are%26nbsp%3Bimprisoning+people+instead+of+setting+them+free%2C+we+need+to+take+a+second+look.)
+So if our actions are imprisoning people instead of setting them free, we need to take a second look.
 
 If we can speak in tongues of angels, have the gift of prophecy and great knowledge, have faith that moves mountains, give all we possess to the poor, and die a martyrs death . . . but have not love, we gain nothing. *Yes, we can even die for a cause and gain nothing* (1 Corinthians 13:1-3).  Even if we are correct in our convictions, anything we do outside the motive of love is in vain.
 
@@ -49,10 +49,10 @@ Or what about the time Chick-Fil-A came under scrutiny for funding an organizati
 
 Christian love should always be characterized by a desire to see others rescued from their sin . . . but we need to remember, "Love covers a multitude of sins" and "Mercy triumphs over judgment" (1 Peter 4:8, James 2:13). It was the Lord's kindness that led us to repentance, and only when we extend the same kindness to others will they ever care what we have to say (Romans 2:4).
 
-I believe there is a way to love and accept the LGBT community while still standing true to the heart and Word of God . . . but in order to do this effectively, we need to stop being so “sin-conscious” of others, and remember that He also died for us WHILE we were sinners (Romans 5:8). Jesus entered the trenches of our suffering in order to lead us to a place of victory, so let's shower the same scandalous and irresistible love toward others today**,** not a poor "religious" counterfeit.  May we strive to love others with reckless abandon, as God has loved us (John 15:12).
+I believe there is a way to love and accept the LGBT community while still standing true to the heart and Word of God . . . but in order to do this effectively, we need to stop being so “sin-conscious” of others, and remember that He also died for us WHILE we were sinners (Romans 5:8). Jesus entered the trenches of our suffering in order to lead us to a place of victory, so let's shower the same scandalous and irresistible love toward others today, not a poor "religious" counterfeit.  May we strive to love others with reckless abandon, as God has loved us (John 15:12).
 
 As Tim Keller’s says,
-[**“You are more sinful and flawed than you ever dared believe, but more accepted and loved than you ever dared to hope.”**](https://twitter.com/intent/tweet?url=https%3A%2F%2Flifelibertyandlove.com%2Fitem%2F9-how-should-the-church-respond-to-homosexuality&text=%E2%80%9CYou+are+more+sinful+and+flawed+than+you+ever+dared+believe%2C+but+more+accepted+and+loved+than+you+ever+dared+to+hope.%E2%80%9D)
+“You are more sinful and flawed than you ever dared believe, but more accepted and loved than you ever dared to hope.”
 
 This applies to ALL of us.
 
@@ -62,4 +62,3 @@ In my article, "[How Should Christians Face The Controversies Of Our Day,"](/ite
 
 "[9 Reasons Why Sinners Went to Jesus But Don't Come To Us](http://www.happysonship.com/9-reasons-why-sinners/)"
 
-"[Will I do Gay Weddings?](http://www.happysonship.com/will-i-do-gay-weddings/)"
