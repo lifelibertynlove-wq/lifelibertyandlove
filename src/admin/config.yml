@@ -22,7 +22,7 @@ collections:
       - { label: "Title", name: "title", widget: "string", hint: "The headline of the post" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: "A short line shown under the title" }
       - { label: "Short description", name: "description", widget: "text", required: false, hint: "1-2 sentences used in Google results and social previews" }
-      - { label: "Publish date", name: "date", widget: "datetime", format: "YYYY-MM-DD", time_format: false }
+      - { label: "Publish date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true }
       - { label: "Author", name: "author", widget: "string", default: "Carey McNamara" }
       - label: "Category"
         name: "category"

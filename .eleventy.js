@@ -70,14 +70,7 @@ module.exports = function (eleventyConfig) {
 
   // Filtros para el feed RSS (envío automático por email vía MailerLite)
   eleventyConfig.addFilter("rssDate", (d) => {
-    const date = new Date(d);
-    // Si la fecha viene sin hora (medianoche UTC), le damos una hora fija
-    // sensata (12:00 UTC) para evitar el 00:00:00 que confunde a los
-    // detectores de "post nuevo" (Brevo) y los limites de zona horaria.
-    if (date.getUTCHours() === 0 && date.getUTCMinutes() === 0 && date.getUTCSeconds() === 0) {
-      date.setUTCHours(12, 0, 0, 0);
-    }
-    return date.toUTCString();
+    return new Date(d).toUTCString();
   });
   eleventyConfig.addFilter("striptags", (s) => String(s).replace(/<[^>]+>/g, ""));
   eleventyConfig.addFilter("cleanText", (s) =>
