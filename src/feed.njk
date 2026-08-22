@@ -19,6 +19,7 @@ eleventyExcludeFromCollections: true
     <pubDate>{{ post.date | rssDate }}</pubDate>
     {%- if post.data.category %}<category>{{ post.data.category }}</category>{%- endif %}
     <description>{{ post.data.description | striptags | cleanText | truncate(300) }}</description>
+    {%- if post.data.subtitle %}<subtitle>{{ post.data.subtitle | striptags }}</subtitle>{%- endif %}
     {%- if post.data.image %}
     <enclosure url="{{ site.url }}{{ post.data.image }}" type="image/jpeg"/>
     <content:encoded><![CDATA[
