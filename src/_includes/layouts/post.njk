@@ -69,39 +69,22 @@ layout: layouts/base.njk
       <h2 class="section-title">Join the conversation</h2>
       <!--
         ============================================================
-        GISCUS — comentarios gratuitos y SIN ANUNCIOS (via GitHub Discussions).
-        FALTAN 3 VALORES por rellenar (data-repo-id y data-category-id).
-        Pasos (5 min, una sola vez):
-          1. En GitHub, repo lifelibertynlove-wq/lifelibertyandlove:
-             Settings > General > Features > marca "Discussions".
-          2. Instala la app: https://github.com/apps/giscus > Install
-             > selecciona ESE repositorio.
-          3. Ve a https://giscus.app y en "Repository" escribe:
-             lifelibertynlove-wq/lifelibertyandlove
-             (debe salir un check verde "giscus esta instalado").
-          4. En "Discussion Category" elige "Announcements" (o crea "Comments").
-          5. giscus.app te genera un bloque <script> con estos 3 valores:
-                data-repo-id="R_..."
-                data-category="Announcements"
-                data-category-id="DIC_..."
-             Copialos y sustituyelos abajo (quita los REPLACE_ME).
+        CUSDIS — comentarios gratuitos, SIN ANUNCIOS y SIN cuenta de GitHub.
+        Los lectores comentan solo con su nombre (email opcional).
+        FALTA 1 VALOR: el data-app-id que da cusdis.com al crear el sitio.
+        Sustituye a850a360-da7b-4043-b8fc-dd2b168b6280 por ese identificador.
+        (Notificaciones de nuevos comentarios: se activan en el panel de
+        cusdis.com, en los ajustes del sitio.)
         ============================================================
       -->
-      <script src="https://giscus.app/client.js"
-        data-repo="lifelibertynlove-wq/lifelibertyandlove"
-        data-repo-id="R_kgDOTPssgw"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOTPssg84DBD7m"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-      </script>
+      <div id="cusdis_thread"
+        data-host="https://cusdis.com"
+        data-app-id="a850a360-da7b-4043-b8fc-dd2b168b6280"
+        data-page-id="{{ page.url }}"
+        data-page-url="{{ site.url }}{{ page.url }}"
+        data-page-title="{{ title }}">
+      </div>
+      <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
     </section>
   </footer>
 </article>
